@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"]}
 ---
 
-rw-modding-link-stash
+imagine an icon here ehe
 
 \[WIP] An attempt to gather all useful info regarding RW modding in one spot, organized and intended to be easily found.
 
