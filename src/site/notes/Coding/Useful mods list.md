@@ -21,7 +21,9 @@ Creatures manipulation
 
 Debug/crash control
 - [log manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069)
+- [Log Switch](https://steamcommunity.com/sharedfiles/filedetails/?id=3194112300) TODO ????
 - [TryCatch](https://steamcommunity.com/sharedfiles/filedetails/?id=2927326990)
+- [HookDebug](https://steamcommunity.com/sharedfiles/filedetails/?id=3414105084) - probably will help to detect mod compat issues.
 
 - [cutscene debug tools](https://steamcommunity.com/sharedfiles/filedetails/?id=3269401924)
 - [physical object tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2953383342)([source code?](https://github.com/casheww/RW-ToolBox))

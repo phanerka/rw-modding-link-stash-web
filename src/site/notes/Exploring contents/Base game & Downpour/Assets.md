@@ -38,6 +38,8 @@ Most encrypted assets (e.g. for slugcats) are white and colored via game code.
 ~~Besides, it's possible to find values in game, upon opening color picker (for example, in custom slugcat color selection)-~~
 where tf did i see that feature????
 hsl / rgb / predetermined colors switch
+this? fr??? TODO
+https://steamcommunity.com/sharedfiles/filedetails/?id=3371225357
 
 
 ### Shaders

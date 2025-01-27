@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/coding/how-to/add-new-shader/"}
 ---
 
+You need a unity with same version of rain world (i forgor TODO) 
+
 https://twitter.com/joar_lj/status/1525445116789497856 (a [mirror](https://nitter.poast.org/joar_lj/status/1525445116789497856) for non-twitter users)
 
 https://github.com/PJB3005/RainWorldMods/tree/master/ShaderReload for hot reload

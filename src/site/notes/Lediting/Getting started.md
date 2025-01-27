@@ -19,6 +19,9 @@ General suggestion is to explore original game rooms and get acknowledged with w
 - ["Creating A Region" Wiki page](https://rainworldmodding.miraheze.org/wiki/Creating_A_Region) - covers *REGION* creation
 - [up-to-date YT video playlist](https://youtube.com/playlist?list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT) - covers a lot of topics, worth to just check if it's got the ones you need
 - [fresh full room creation VOD](https://www.youtube.com/watch?v=SoDoDBdaZKw)
+- TODO should i add lediting vods / timelapses playlists somewhere?
+https://www.youtube.com/playlist?list=PL_bK2jcLm1oJW4E6dj2GnM_8gWN2n8q73
+https://www.youtube.com/playlist?list=PL_bK2jcLm1oJ8CJuXg7N2xS0uRzGoCMDF
 ### Useful links
 - Seroen's Warehouse: [linky link](https://seroen.github.io/Seroens-Repo/index.html)
 Very good repo. It has got a lot of links and files that would come in handy. Have to admit, a lot of stuff has been pulled from there.

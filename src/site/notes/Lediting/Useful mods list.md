@@ -15,11 +15,14 @@ Recommended:
 - [Freezing cycle](https://steamcommunity.com/sharedfiles/filedetails/?id=3035801552): helps to edit the room in Dev Tools without worries that rain will eventually come. More info in [[Lediting/Tips#Rain disable\|👍 Tips]]
 - [Room Screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486): self-explanatory.
 - [Palette Creator](https://steamcommunity.com/sharedfiles/filedetails/?id=2959458351): cool thing but broken, unfortunately. Refer "[[Lediting/How to-/create custom palette\|create custom palette]]" file for working one.
+- [Region Acronym Complete Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3412393061): allows to use more than 2 letters for [[Lediting/I wanna make new region!#Region naming\|acronym]].
 
 Dependencies:
 - [RegionKit](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439476) ([features](https://github.com/Rain-World-Modding/RegionKit/blob/main/README.md), [docs](https://github.com/Rain-World-Modding/RegionKit/tree/main/docs)): a "unified dependency and object kit"; provides a lot of various features, starting with more room customization and ending with more devtools objects. 
 - [Lunacy](https://steamcommunity.com/sharedfiles/filedetails/?id=2930814260) ([docs](https://github.com/Nacu0021/Lunacy)): yet another feature library. 
 - [The M4rbelous Entity Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3311812030): new creatures and items pack. 
+TODO: should i mention other item/creature mods here or just list to steam workshop?
+or actually... just make foldable list?
 - [Coloured Lanterns](https://steamcommunity.com/sharedfiles/filedetails/?id=3401635588):  self explanatory. 
 
 
