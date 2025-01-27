@@ -35,8 +35,12 @@ https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Sprites_and_Atlases
 Most encrypted assets (e.g. for slugcats) are white and colored via game code.
 ![hex-colors.png](/img/user/pics/hex-colors.png)
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1081023267378303036))
+~~Besides, it's possible to find values in game, upon opening color picker (for example, in custom slugcat color selection)-~~
+where tf did i see that feature????
+hsl / rgb / predetermined colors switch
 
-### shaders
+
+### Shaders
 `Rain World\RainWorld_Data\StreamingAssets\shaders`
 Shaders code is decompiled and is readable via any text editor. 
 put preview here 
@@ -66,8 +70,8 @@ https://drive.google.com/file/d/1jEUJ23r1vTYXXoI21I1PexlfiIetJVzv/view
 - rendered room assets (looking red)
 are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym) 
 - rendered AND colored rooms (like how they look in game)
-TODO
-check out [[Lediting/For inspiration#Region maps\|rain world maps]] for quick view, [[Drawing & making assets/References#Github images repository\|Github image repo]] for download and this for manual rendering.
+TODO map exporter for online maps!!!!!
+check out [[Lediting/For inspiration#Region maps\|rain world maps]] for quick view, [[Drawing & making assets/References#Github images repository\|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  \### (all region rooms) for manual rendering.
 - project files for lediting
 refer to [[Lediting/How to-/modify rooms from the game#modify rendered image\|modify rooms from the game#modify rendered image]]
 

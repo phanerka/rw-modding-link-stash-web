@@ -23,7 +23,11 @@ https://docs.google.com/document/d/147crgDMY4ScrU8vn8Kl6gOXsbfbb5raprUAXaNhWndw/
 ##### Making init.txt file
 ![Tile_Guide.png](/img/user/pics/Tile_Guide.png)
 
+Specs Editor
+https://drive.google.com/file/d/17hWH494JwnAOrjo3Xyh8J_QZbbuAA3CO/view
+
 to help with init file: 
+Tile Init Editor
 https://drive.google.com/file/d/15it9oLIAD5698Y-4xe6cmD_ckdAHs-As/view
 
 ### Blender prop renderers
@@ -37,6 +41,8 @@ You can create props using Blender.
 
 - soft prop exporter
 (source: [RWMS](https://discord.com/channels/1237826015829557400/1238172653819527168/1245873535822598165))
+- lever compositor
+(source: [RW Main](https://discord.com/channels/291184728944410624/804088181904375819/1084222820818628618))
 
 Troubleshooting:
 TODO

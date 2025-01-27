@@ -17,6 +17,7 @@ https://github.com/Vultumast/RainWorldSaveEditor
 ![sandbox-save.png](/img/user/pics/sandbox-save.png)
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/505218239853363200))
 
+TODO add object ID thing
 
 ##### Steam Cloud saving
 Conditions for files to be stored in Steam Cloud

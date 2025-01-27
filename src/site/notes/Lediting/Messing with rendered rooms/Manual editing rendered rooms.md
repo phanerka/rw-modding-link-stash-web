@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/lediting/messing-with-rendered-rooms/manual-editing-rendered-rooms/"}
 ---
 
+Entire room coloring is made via [[Exploring contents/Base game & Downpour/Assets#Documentation on LevelColor shader\|LevelColor]] shader.
+
+
 45 degrees:
 https://youtu.be/WgXjyBE6-IA
 effect colors:

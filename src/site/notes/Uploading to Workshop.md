@@ -2,7 +2,17 @@
 {"dg-publish":true,"permalink":"/uploading-to-workshop/"}
 ---
 
-custom mod uploader here
+### Custom Workshop Uploader
+
+**"Why?"**
+ because V
+ 
+> why is rain world suddenly not updating my mod when i hit upload? for some reason now when i hit upload it now uploads it as an entirely separate mod instead of just updating what i already uploaded
+
+> 1. Huh ![:saintsmirk:](https://cdn.discordapp.com/emojis/951914063720513596.webp?size=44) usually had that be the sole determining factor in whether the game's built-in uploader works properly, with it only working on Public mods Either way the Vigaro mod uploader works better. (edited)
+
+https://github.com/MatheusVigaro/RainWorldWorkshopUploader/releases
+(source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1080334872364732526))
 
 > I made a small tool for viewing all KVPs added to a Steam workshop mod via SteamUGC::AddItemKeyValueTag
 > https://github.com/Gamer025/SteamUGCKVPViewer
@@ -15,4 +25,4 @@ custom mod uploader here
 > You can either compile the code yourself or get the latest version here https://github.com/Gamer025/SteamUGCKVPViewer/releases/latest
 > The program is already configured to get all Rain World mods but you can also check out other games by putting their AppID into the steam_appid.txt
 
-source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1147616659624964148)
+(source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1147616659624964148))

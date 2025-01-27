@@ -7,8 +7,8 @@ imagine an icon here ehe
 \[WIP] An attempt to gather all useful info regarding RW modding in one spot, organized and intended to be easily found.
 
 Note that it won't:
- - provide "step by step" exhaustive guide. It just provides what's accessible in the public.
- - tell "how to draw" or "how to code". That stuff is up to you.
+ - provide "step by step" exhaustive guide. It just provides what's accessible in the public at the time being.
+ - explain vague topics like "how to draw" or "how to code". That stuff is up to you.
 
 ### Disclaimer
 
@@ -38,12 +38,9 @@ TO SORT OUT
 mod templates
 
 https://ln.sync.com/dl/357bdf1b0/z6tktgzw-a77f8imc-yw45zfsd-aytdk8hz
-troubleshooting: https://discord.com/channels/291184728944410624/431534164932689921/516099811133489153
 
-https://drive.google.com/file/d/17hWH494JwnAOrjo3Xyh8J_QZbbuAA3CO/view
+^ is it really useful at these days?
 
-
-https://www.youtube.com/@JLJac2/videos
 
 ...
 no, fyi im a horrible learner :(
