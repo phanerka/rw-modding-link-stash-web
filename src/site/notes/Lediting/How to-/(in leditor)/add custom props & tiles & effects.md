@@ -19,6 +19,8 @@ Tiles guide: [YT Video](https://www.youtube.com/watch?v=maOTf24PEKs&list=PLOpeR3
 https://github.com/Rain-World-Modding/Rain-World-Modding.github.io/blob/main/pages/region-development/level-editor/Custom-Palettes%2C-Tiles-and-Props.md
 https://docs.google.com/document/d/147crgDMY4ScrU8vn8Kl6gOXsbfbb5raprUAXaNhWndw/edit?tab=t.0#heading=h.d8sdxl34h7wg
 **TODO: make own damn prop n tile to understand which doc is most useful**
+
+##### Making init.txt file
 ![Tile_Guide.png](/img/user/pics/Tile_Guide.png)
 
 to help with init file: 
@@ -27,11 +29,12 @@ https://drive.google.com/file/d/15it9oLIAD5698Y-4xe6cmD_ckdAHs-As/view
 ### Blender prop renderers
 You can create props using Blender. 
 - hard prop exporter
-For v2.79 ([tutorial video](https://youtu.be/8Nm1jWggH2I)) 
-https://drive.google.com/file/d/1LvD7pYMeS18RD4l0wD9KrdmQdigfaEdo/view
-(source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/420327770187366400))
-For v3.6
-(source: [RWMS](https://discord.com/channels/1237826015829557400/1238172653819527168/1245868873140539402))
+	- For Blender v2.79 ([tutorial video](https://youtu.be/8Nm1jWggH2I)) 
+	https://drive.google.com/file/d/1LvD7pYMeS18RD4l0wD9KrdmQdigfaEdo/view (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/420327770187366400))
+	- For Blender v3.6
+	(source: [RWMS](https://discord.com/channels/1237826015829557400/1238172653819527168/1245868873140539402))
+	- For Blender v4.0
+
 - soft prop exporter
 (source: [RWMS](https://discord.com/channels/1237826015829557400/1238172653819527168/1245873535822598165))
 

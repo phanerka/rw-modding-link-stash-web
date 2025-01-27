@@ -26,7 +26,8 @@ For example, maybe you want:
 • different camera perspectives
 • stable decals between close cameras
 • to use effect colors for extra shading
-• to use the *”Secret 3rd effect color”* (white for batfly hives)
+• to use the *”Secret 3rd effect color”* (white for batfly hives) 
+TODO put a preview of this somewhere
 • to do a bit of touch-up
 
 To avoid Google Colab you can use Jupyter Notebook, Spyder, and the like. If you want use the old versions or modify the new ones (just change the file input/output stuff) then you could use a mobile app like Carnets.

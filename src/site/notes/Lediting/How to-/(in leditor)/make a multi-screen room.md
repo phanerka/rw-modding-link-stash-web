@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/lediting/how-to/in-leditor/make-a-multi-screen-room/"}
 ---
 
+https://rainworldmodding.miraheze.org/wiki/Level_Editor#Level_Size
 ![level-size.png](/img/user/pics/level-size.png)
 wawa
 

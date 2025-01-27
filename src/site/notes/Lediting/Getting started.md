@@ -5,7 +5,7 @@
 ### Things to download
 - level editor: [link to a list of them](https://seroen.github.io/Seroens-Repo/info.html)
 It explains differences between editors pretty well. Personally I use **Rained** ([manual](https://pkhead.github.io/rained/en/)). It has got good balance between "good UI" and "up-to-date". 
-General lever editor guide: [Wiki page](https://rainworldmodding.miraheze.org/wiki/Level_Editor)
+General level editor guide: [Wiki page](https://rainworldmodding.miraheze.org/wiki/Level_Editor)
 - preview of lediting features (tiles, props, effects):
     - [google drive link](https://drive.google.com/drive/u/0/folders/1mDhiQAi7CHkGy0Fd6Oi0s8tOZr7H152-) (source: [RWMA](https://discord.com/channels/1083481230839922688/1083506128010358915/1210363538397331567))
     - updated list of effect previews (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1322828255190843412))

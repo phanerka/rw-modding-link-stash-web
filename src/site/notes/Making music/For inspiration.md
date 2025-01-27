@@ -5,7 +5,7 @@
 [modded music playlist on youtube](https://www.youtube.com/playlist?list=PLwcrdolHhE9F22jCsIdrz_LNd3hA8HO2F)
 
 ### In game sounds
-ALL in-game sounds, available for download (including delayered in game threat music)
+ALL in-game sounds, available for download (including layered in-game threat music)
 https://github.com/cookiecaker/Rain-World-Sounds
 
 ##### Threat music layers

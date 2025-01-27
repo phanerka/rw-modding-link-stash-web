@@ -5,6 +5,9 @@
 ### Saves
 `%userprofile%\AppData\LocalLow\Videocult\Rain World`
 
+??? TODO whats that
+https://gist.github.com/derofim/117566f49ebe1aa89c3b9079693db2f8
+
 Save editor: https://github.com/Ved-s/RainState
 https://github.com/Fnafgameur/RwSavEditor/releases/tag/First
 https://github.com/Vultumast/RainWorldSaveEditor
@@ -23,10 +26,10 @@ https://store.steampowered.com/account/remotestorageapp/?appid=312520
 
 ### Logs
 
-NOTE: all logs are cleared on game restart. Make sure to save them in time.
-Another option is to install [LogManager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069) mod and configure it. It also changes logs' locations to `idk i forgor`, however.
+> [!warning] All logs are cleared on game restart. Make sure to save them in time.
+> Another option is to install [LogManager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069) mod and configure it. It also changes logs' locations to `idk i forgor`, however.
 
-Enabling live `LogOutput.log` logs: [[Coding/Tips#Live logs\|coding tips]]
+> [!tip] Enabling live `LogOutput.log` logs: [[Coding/Tips#Live logs\|coding tips]]
 
 **TODO: FINISH IT**
 ##### LogOutput log
@@ -38,7 +41,7 @@ second one will have `LogOutput.log.1` name, third one `LogOutput.log.2`, etc.
 `Rain World\RainWorld_Data\StreamingAssets\crsLog.txt`
 Useful for lediting.
 ##### exception log
-`Rain World\ exceptionLog.txt`
+`Rain World\exceptionLog.txt`
 Gathers all errors that occured in game. 
 ##### console log
 `consoleLog.txt`
