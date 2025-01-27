@@ -12,8 +12,8 @@ General level editor guide: [Wiki page](https://rainworldmodding.miraheze.org/wi
 - (optional) example mod [zip file link from discord](https://cdn.discordapp.com/attachments/1083506128010358915/1268631425171591369/modName.zip?ex=67835c55&is=67820ad5&hm=93855c74036745b612ea62ae1ad0518d3a302a42e52f8778d53a662d48efa12f&)
 ### Things to learn
 General suggestion is to explore original game rooms and get acknowledged with what materials are used, what materials go well, etc.
-https://rainworldmodding.miraheze.org/wiki/The_Architecture_of_Rain_World
-For effects, you can check this cringe [Fandom Wiki page](https://rain-world-modding.fandom.com/wiki/Effects_Editor).
+- https://rainworldmodding.miraheze.org/wiki/The_Architecture_of_Rain_World
+- https://rain-world-modding.fandom.com/wiki/Effects_Editor (yeah cringe fandom ik)
 ### Tutorials
 - ["Region From The Ground Up" Wiki page](https://rainworldmodding.miraheze.org/wiki/Region_From_The_Ground_Up) - covers *ROOM* creation in details
 - ["Creating A Region" Wiki page](https://rainworldmodding.miraheze.org/wiki/Creating_A_Region) - covers *REGION* creation

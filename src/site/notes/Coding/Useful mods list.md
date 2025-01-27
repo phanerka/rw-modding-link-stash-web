@@ -12,18 +12,19 @@ If you don't like it, here are some plugins that might fix some stuff:
    - [rebind dev tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2940372957)
    
 - [dev console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044) ([wiki](https://github.com/SlimeCubed/DevConsole/wiki))
+
+- [unity explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3317633200)?
 Creatures manipulation
 - [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation with existing creatures, including the player
 - [BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670)- provides convenient way to spawn creatures in-game
 
-- [unity explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3317633200)?
-- [log manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069)
 
+Debug/crash control
+- [log manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069)
+- [TryCatch](https://steamcommunity.com/sharedfiles/filedetails/?id=2927326990)
 
 - [cutscene debug tools](https://steamcommunity.com/sharedfiles/filedetails/?id=3269401924)
-
-- [physical object tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2953383342)????
-
+- [physical object tools](https://steamcommunity.com/sharedfiles/filedetails/?id=2953383342)([source code?](https://github.com/casheww/RW-ToolBox))
 
 - [DebugVisualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3136260525)
 Controls (non-numpad):
@@ -48,7 +49,5 @@ Slowing down / stopping the game:
 - [Fisobs](https://steamcommunity.com/sharedfiles/filedetails/?id=2920541687) ([docs](https://docs.google.com/document/d/1RS8m_7cR5BIJwmRF9zZ1JnZXt-7j5pF8sm4jkRKiY1g/edit?tab=t.0#heading=h.jwenpzxh29co), [example](https://github.com/Dual-Iron/fisobs/blob/master/examples/README.md))
 - [Placed Objects Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439169)([docs](https://github.com/Rain-World-Modding/Pom)) 
 
-### Niche
-??? 
 
 Mod collection is here.

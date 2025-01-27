@@ -19,12 +19,13 @@ Theres one posted by community, and another one made by stupid me who likes to d
 ### Tutorials 
 - [YT basic mod creation vid](https://www.youtube.com/watch?v=JG9cyL5FW90)
 - [wiki page](https://rainworldmodding.miraheze.org/wiki/BepInPlugins)
+- Unfinished [playlist](https://www.youtube.com/playlist?list=PLuHyVLkKIJi3P6xu-V3aRTAlwWpdDKxSa) of advanced modding tutorials (TODO delete the link?)
 
 > [!tip] Also recommended to check [[Coding/Tips\|Tips]] for making more convenient setup.
 
 
 ### Example mod
-
+https://github.com/NoirCatto/RainWorldRemix/tree/master/Templates
 ### Useful links 
 
 raindb? 
