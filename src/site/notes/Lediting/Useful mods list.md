@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lediting/useful-mods-list/"}
 ---
 
-NOTE: thats not entire list. Some mods are more niche and mentioned in "How-to"s
+> [!warning] That's not entire list. Some mods are more niche and mentioned in "How-to"s
 
 Must-haves:
 - Dev Tools: a classic. you cannot finish a room without devtools. literally.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/coding/useful-mods-list/"}
 ---
 
-NOTE: thats not entire list. Some mods are more niche and mentioned in "How-to"s
+> [!warning] That's not entire list. Some mods are more niche and mentioned in "How-to"s
 
 Mods that could be useful:
 ### Debugging

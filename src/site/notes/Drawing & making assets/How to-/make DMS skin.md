@@ -12,5 +12,4 @@ unpacking
 https://tu.enea.sk/
 packing or smth
 https://www.codeandweb.com/tp-online
-source link rw main
-https://discord.com/channels/291184728944410624/838185248981385256/1098995144923041843
+(source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1098995144923041843))

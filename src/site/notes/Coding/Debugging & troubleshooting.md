@@ -10,7 +10,10 @@ Debugging is closely tied to [[Exploring contents/Base game & Downpour/Technical
 hopefully u downloaded [[Coding/Getting started#Setting up RW for debugging\|everything]] you needed for it.
 
 
-to debug your own mod in dnspy, you gotta use the one that lies in mods folder. u have to replace it every time after build!
+to debug your own mod in dnspy, you gotta use the one that lies in mods folder. 
+
+> [!warning] Don't forget to replace it every time after build!
+
 to debug others mods: 
 `Steam\steamapps\workshop\content\312520`
 

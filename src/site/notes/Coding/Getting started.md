@@ -20,7 +20,7 @@ Theres one posted by community, and another one made by stupid me who likes to d
 - [YT basic mod creation vid](https://www.youtube.com/watch?v=JG9cyL5FW90)
 - [wiki page](https://rainworldmodding.miraheze.org/wiki/BepInPlugins)
 
-Also recommended to check [[Coding/Tips\|Tips]] for making more convenient setup.
+> [!tip] Also recommended to check [[Coding/Tips\|Tips]] for making more convenient setup.
 
 
 ### Example mod

@@ -7,7 +7,8 @@ most of stuff is in assemly-sharp-public
 
 
 Downpour code comes with base game code; its usually marked with "is.MSC()" check.
-**Do not copy DLC code!** Your mod will be deleted from Workshop, once discovered.
+> [!warning] **Do not copy DLC code!**
+> Your mod will be deleted from Workshop, once discovered.
 
 https://mszegedy.github.io/rw-api-doc/html/index.html
 (but still highly suggested to explore locally as DnSpy got more features)

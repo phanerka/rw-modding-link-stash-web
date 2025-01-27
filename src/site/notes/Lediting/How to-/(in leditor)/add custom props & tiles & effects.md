@@ -25,15 +25,24 @@ to help with init file:
 https://drive.google.com/file/d/15it9oLIAD5698Y-4xe6cmD_ckdAHs-As/view
 
 ### Blender prop renderers
+You can create props using Blender. 
 - hard prop exporter
-For.... 2.8 or smth? 
+For v2.79 ([tutorial video](https://youtu.be/8Nm1jWggH2I)) 
 https://drive.google.com/file/d/1LvD7pYMeS18RD4l0wD9KrdmQdigfaEdo/view
-For 3.5
-
+(source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/420327770187366400))
+For v3.6
+(source: [RWMS](https://discord.com/channels/1237826015829557400/1238172653819527168/1245868873140539402))
 - soft prop exporter
-Besides, you can create props using Blender. Get the renderer here: 
-TODO REEEEEEEEEEEEEEEEEEEEEEEEEE
+(source: [RWMS](https://discord.com/channels/1237826015829557400/1238172653819527168/1245873535822598165))
+
+Troubleshooting:
+TODO
+https://discord.com/channels/1237826015829557400/1237868553450029208/1279078875481112650
+
+
+
 Aseprite tile exporter: https://github.com/mayhemmmwith3ms/Aseprite-RW-Tile-Exporter
+
 
 - effects *(supported ONLY by Community Editor and Rained at the moment!!)*
 https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Effects
