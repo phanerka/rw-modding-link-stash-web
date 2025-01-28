@@ -15,7 +15,10 @@ Main server (aka RW Main): https://discord.gg/rainworld
 Modding Academy server (aka RWMA): https://discord.gg/4rqYRexHW3
 Modding server (aka RWMS): https://discord.gg/kPGJNhrnu2
 
-##### Foreign Discord servers
+  
+> [!tip] Personal advice: do NOT hesitate to ask for help there!
+> Information and resources are truly spread out across everything, believe me as _creator of this website_.
+##### Local Discord servers
 I mean servers with English as non-primary language.
 Russian RW \[ru]:
 Chinese RW \[cn]:

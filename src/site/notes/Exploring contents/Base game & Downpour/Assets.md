@@ -7,6 +7,7 @@
 ##### Scenes & art
 ~~Anything that is NOT sprites (for creatures, items, UI, font),~~
 It's not encrypted and is located in folders in `Rain World\RainWorld_Data\StreamingAssets`
+Also, available in [[Drawing & making assets/References#Github images repository\|Github image repo]].
 Breakdown:
 https://rainworldmodding.miraheze.org/wiki/Slideshows_and_Scenes#Breaking_up_the_basics_of_a_scene
 
@@ -29,6 +30,11 @@ https://www.reddit.com/r/rainworld/comments/11apuoi/having_trouble_accessing_sou
 ### Sprites
 Decrypting:
 https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Sprites_and_Atlases
+
+### Arena icons
+https://dl.dropboxusercontent.com/s/151jfgurb6otcjc/arenaicons_by_henpemaz.zip
+(source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/722224693893136466))
+Also, available in [[Drawing & making assets/References#Github images repository\|Github image repo]].
 
 
 ### Color hex codes
@@ -57,17 +63,28 @@ https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18
 Some fonts are encrypted in a form of atlass. Others technically don't even exist (characters are just a bunch of sprites).
 
 The fonts below are made by the community, for convenient usage.
-- RW-like font (based on [Rodondo](https://www.dafont.com/rodondo.font))
+
+https://fontstruct.com/gallery/tag/48144/Rain%20World
+
+- RW title-like font (based on [Rodondo](https://www.dafont.com/rodondo.font))
 https://drive.google.com/file/d/15q8BBFUtt8G3XGyYi1JsD3IAuC-aUbpy/view?usp=drive_link
 Rodondo RU: \#general pins
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1166479012193906718))
 
-https://docs.google.com/document/d/1QZnQgeoW3RyoR3_ZR1DGse99p1UPZRhU5LoVvCGUT_A/edit?usp=sharing
-(source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/822957346711928922))
+- UI-like font
+wawa
+Supports cyrillic!
+(source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/1094033795524612147))
 
 - RW Glyphs being assembled in a font
 https://drive.google.com/file/d/1jEUJ23r1vTYXXoI21I1PexlfiIetJVzv/view
 (source: [Reddit post](https://www.reddit.com/r/rainworld/comments/1bei8sy/i_created_a_fully_functional_typeface_for_every/))
+
+https://drive.google.com/file/d/1fmA2AK0utiy1Yajb10Hlny8_Bkpl8m3u/view
+(source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/540335659890769931))
+
+https://docs.google.com/document/d/1QZnQgeoW3RyoR3_ZR1DGse99p1UPZRhU5LoVvCGUT_A/edit?usp=sharing
+(source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/822957346711928922))
 ### Rooms
 - rendered room assets (looking red)
 are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym) 

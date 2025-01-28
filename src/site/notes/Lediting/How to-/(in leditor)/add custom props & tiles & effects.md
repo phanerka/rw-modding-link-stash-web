@@ -34,15 +34,17 @@ https://drive.google.com/file/d/15it9oLIAD5698Y-4xe6cmD_ckdAHs-As/view
 You can create props using Blender. 
 - hard prop exporter
 	- For Blender v2.79 ([tutorial video](https://youtu.be/8Nm1jWggH2I)) 
-	https://drive.google.com/file/d/1LvD7pYMeS18RD4l0wD9KrdmQdigfaEdo/view (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/420327770187366400))
+	https://drive.google.com/file/d/1LvD7pYMeS18RD4l0wD9KrdmQdigfaEdo/view 
+	(source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/420327770187366400))
 	- For Blender v3.6
 	(source: [RWMS](https://discord.com/channels/1237826015829557400/1238172653819527168/1245868873140539402))
 	- For Blender v4.0
-
+	(source... or at least where i found: [RWMS](https://discord.com/channels/1237826015829557400/1237868553450029208/1273024775291277313))
 - soft prop exporter
 (source: [RWMS](https://discord.com/channels/1237826015829557400/1238172653819527168/1245873535822598165))
 - lever compositor
 (source: [RW Main](https://discord.com/channels/291184728944410624/804088181904375819/1084222820818628618))
+theres 2 actually.... ugh TODO
 
 Troubleshooting:
 TODO

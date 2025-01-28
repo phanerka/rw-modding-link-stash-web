@@ -16,6 +16,7 @@ Recommended:
 - [Room Screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486): self-explanatory.
 - [Palette Creator](https://steamcommunity.com/sharedfiles/filedetails/?id=2959458351): cool thing but broken, unfortunately. Refer "[[Lediting/How to-/create custom palette\|create custom palette]]" file for working one.
 - [Region Acronym Complete Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3412393061): allows to use more than 2 letters for [[Lediting/I wanna make new region!#Region naming\|acronym]].
+- [Region Title Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2998885818): TODO to be added
 
 Dependencies:
 - [RegionKit](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439476) ([features](https://github.com/Rain-World-Modding/RegionKit/blob/main/README.md), [docs](https://github.com/Rain-World-Modding/RegionKit/tree/main/docs)): a "unified dependency and object kit"; provides a lot of various features, starting with more room customization and ending with more devtools objects. 
