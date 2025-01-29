@@ -36,8 +36,8 @@ https://store.steampowered.com/account/remotestorageapp/?appid=312520
 ##### LogOutput log
 `Rain World\BepInEx\LogOutput.log`
 Useful in general.
-NOTE: if more that one instance are running on a single PC:
-second one will have `LogOutput.log.1` name, third one `LogOutput.log.2`, etc. 
+> [!info] if more that one instance are running on a single PC:
+> second one will have `LogOutput.log.1` name, third one `LogOutput.log.2`, etc. 
 ##### CustomRegionsSupport log #crs 
 `Rain World\RainWorld_Data\StreamingAssets\crsLog.txt`
 Useful for lediting.

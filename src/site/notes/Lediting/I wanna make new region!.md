@@ -15,6 +15,9 @@ https://rainworldmodding.miraheze.org/wiki/Properties_File
 og regions acronyms
 https://rainworld.miraheze.org/wiki/User:Alphappy/Region_codes
 Region lease: 
+
+> [!info] Recently, a [mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3412393061) was released that allows to use more than 2 letters for acronym. Yay!
+
 acronym
 https://rainworld-region-lease-improved.glitch.me/
 https://forms.gle/gdaGmLJuBJb4LvMS7
@@ -23,7 +26,7 @@ Once you're confident with them, you'll need to request access the document and 
 
 if you ever decide to change region name during development, [this](https://github.com/glebi574/rw-fix-region-acronyms) might help you to do it quickly.
 
-Recently, a [mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3412393061) was released that allows to use more than 2 letters for acronym. Yay!
+
 ### Post-release to-do
 When you finish the region, you'll likely want its map to be shared.
 https://seroen.github.io/Seroens-Repo/Dist/Tools/Cornifer.zip
