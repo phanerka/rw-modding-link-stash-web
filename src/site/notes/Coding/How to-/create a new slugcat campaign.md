@@ -7,6 +7,8 @@ Docs: https://slimecubed.github.io/slugbase/index.html
 
 Adding graphics without DMS: https://github.com/orgs/Rain-World-Modding/discussions/19
 
+Regarding existing sprites:
+
 
 slugbase scug example that stores [[Coding/How to-/(technically)/store data (CWT)\|ConditionalWeakTables]] values
 https://cdn.discordapp.com/attachments/305139167300550666/1106826099712864257/SlugCatCWTExample.zip?ex=6786a8e2&is=67855762&hm=92e7df884f2d7540f67e2db63e038236dee81b87cc5becc523c0bd231dde6744&

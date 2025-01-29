@@ -17,6 +17,7 @@ However, if you're not happy with your info being added here / want to be credit
 dis: phanie_
 
 the sleepy scug pic is made by me bruh.... based on survivor sleeping sprite ofc
-TODO need to credit that guy if they agree to give the font
+quintennial: shared their modified Rodondo font for my title thing. Thx a lot :3
+and Olly Wood since they're original creators of the font
 
 jonahfagnus: lediting guides, room/region idea generator creation
