@@ -33,13 +33,7 @@ enjoy.
 -ph
 
 
-TO SORT OUT
 
-mod templates
-
-https://ln.sync.com/dl/357bdf1b0/z6tktgzw-a77f8imc-yw45zfsd-aytdk8hz
-
-^ is it really useful at these days?
 
 
 ...
