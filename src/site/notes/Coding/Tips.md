@@ -24,4 +24,4 @@ Refer to [[Exploring contents/Cheat codes\|Cheat codes]].
 ### Coding tips
 - for mod compatibility, class creation > hook creation
 - no base code yoinking. if ya need to change a single line in the function, check out IL hooking
-- For IL hooking: [[Coding/How to-/(technically)/modify game logic (Hooking)#Guidelines\|modify game logic (Hooking)#Guidelines]]
+- For IL hooking: [[Coding/How to-/(technically)/modify game logic (Hooking)#Guidelines\|guidelines]]

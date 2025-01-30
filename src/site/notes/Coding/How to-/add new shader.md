@@ -2,14 +2,20 @@
 {"dg-publish":true,"permalink":"/coding/how-to/add-new-shader/"}
 ---
 
+### Prerequisites
 You need a unity with same version of rain world (i forgor TODO) 
+
+
+guide: 
+https://docs.google.com/document/d/16IPRW0ulD2sWIXtqj8W3jMq6KQFtn14z9iHPKZB3tLY/edit
+(source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1237835470080180235))
 
 https://twitter.com/joar_lj/status/1525445116789497856 (a [mirror](https://nitter.poast.org/joar_lj/status/1525445116789497856) for non-twitter users)
 
 https://github.com/PJB3005/RainWorldMods/tree/master/ShaderReload for hot reload
 
 
-**Existing shaders:** [[Exploring contents/Base game & Downpour/Assets#shaders\|Assets#shaders]]
+**Exploring existing shaders:** [[Exploring contents/Base game & Downpour/Assets#shaders\|Assets#shaders]]
 
 ;-; i dont wanna copy stuff
 

@@ -10,6 +10,8 @@
 
 ### Applying shaders
 
+examples:
+
 Hologram shader
 ![hologram-decal_by-rorolly_13.png](/img/user/pics/freeformDecalOrSprite/hologram-decal_by-rorolly_13.png)
 ![hologram-decal2_by-rorolly_13.png](/img/user/pics/freeformDecalOrSprite/hologram-decal2_by-rorolly_13.png)
@@ -25,10 +27,8 @@ use as prop
 ![prop-decal_by-merfaruk.png](/img/user/pics/freeformDecalOrSprite/prop-decal_by-merfaruk.png)
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083485771949949019/1189234052868341932))
 
-animated decal
-wawa... 
-(source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1249297299662704681))
-rwma
+bloom effect
+(source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1208488425154547822))
 
 > [!example]- List of applicable shaders
 > 
@@ -142,6 +142,12 @@ rwma
 
 
 ### Animated decal
+
+examples:
+one (source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/1331360762337431612))
+two (source: [RWMA](https://discord.com/channels/1083481230839922688/1083484064549437470/1224797331799670844))
+
+guide
 
 > first, create the frames you want to have. They should be named 0001 0002 0003 and so on. 
 i do that with blender 

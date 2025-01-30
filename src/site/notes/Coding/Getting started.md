@@ -9,10 +9,12 @@ preferred:
 il hooking
 ### Things to download
 - IDE for C#
+
+If you're planning to [[Coding/How to-/add new shader\|make shaders]] or make Debug version of RW yourself (there's a download link, but *what if!*), you'll have to download [[Exploring contents/Unity version\|specific version]] of Unity. It's very bulky, make sure to do it beforehand!
 #### Setting up RW for debugging
 - Debug world version of Rain World
 Theres one posted by community, and another one made by stupid me who likes to do things the hard way. Oh well. At least I put some additional info in there. 
-- DnSpy
+- DnSpyEx
 ### Things to learn
 [Technical Glossary](https://rainworld.miraheze.org/wiki/Technical_Glossary)
 

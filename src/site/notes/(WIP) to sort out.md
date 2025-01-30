@@ -2,68 +2,7 @@
 {"dg-publish":true,"permalink":"/wip-to-sort-out/"}
 ---
 
-
-
-
-> [!example]- List of sprite... things. ugh. yeah.
-> PLAYER SPRITES
-> 0 - BodyABody
-> 1 - HipsAHips
-> 2 - Futile_WhiteTail
-> 3 - HeadA0Head
-> 4 - LegsA0Legs
-> 5 - PlayerArm0Arm
-> 6 - PlayerArm0Arm
-> 7 - OnTopOfTerrainHandPole Climbing arm
-> 8 - OnTopOfTerrainHandPole Climbing arm
-> 9 - FaceA0Face
-> 10 - Futile_WhiteGlow (From Neuron fly)
-> 11 - pixelMark of Communication
-> 12 - MoonCloakTexMoon's Cloak
-> 
-> CAMERA DEFAULT LAYERS
-> 0 - Shadows
-> 1 - BackgroundShortcuts
-> 2 - Background
-> 3 - Midground
-> 4 - Items
-> 5 - Foreground
-> 6 - ForegroundLights
-> 7 - Shortcuts
-> 8 - Water
-> 9 - GrabShaders
-> 10 - Bloom
-> 11 - HUD
-> 12 - HUD2
-> 
-> ANIMATION INDECIES
-> None
-> CrawlTurn
-> StandUp
-> DownOnFours
-> LedgeCrawl
-> LedgeGrab
-> HangFromBeam
-> StandOnBeam
-> ClimbOnBeam
-> GetUpToBeamTip
-> HangUnderVerticalBeam
-> BeamTip
-> CorridorTurn
-> SurfaceSwim
-> DeepSwim
-> Roll
-> Flip
-> RocketJump
-> BellySlide
-> AntlerClimb
-> GrapplingSwing
-> ZeroGSwim
-> ZeroGPoleGrab
-> VineGrab
-> Dead 
-
-(source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1200692551439626281))
+txt = new FLabel("font", "");
 
 rw graphics modding
 https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit?tab=t.0

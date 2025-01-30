@@ -27,6 +27,6 @@ or actually... just make foldable list?
 - [Coloured Lanterns](https://steamcommunity.com/sharedfiles/filedetails/?id=3401635588):  self explanatory. 
 
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3344354368 ?????????
+[Properties Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3344354368) ?????????
 
 Mod collection (without Palette Creator) is here. 

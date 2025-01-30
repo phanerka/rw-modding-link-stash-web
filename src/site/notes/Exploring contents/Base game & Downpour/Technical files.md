@@ -104,7 +104,7 @@ Your files that are stored in Steam Cloud
 https://store.steampowered.com/account/remotestorageapp/?appid=312520
 
 ### Logs
-
+yeah i blatantly stole descs from ;allthelogs pls spare me
 > [!warning] All logs are cleared on game restart. Make sure to save them in time.
 > Another option is to install [LogManager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069) mod and configure it. It also changes logs' locations to `idk i forgor`, however.
 
@@ -113,14 +113,16 @@ https://store.steampowered.com/account/remotestorageapp/?appid=312520
 **TODO: FINISH IT**
 ##### LogOutput log
 `Rain World\BepInEx\LogOutput.log`
-Useful in general.
+Created by BepInEx, a Unity mod loader.
 > [!info] if more that one instance are running on a single PC:
 > second one will have `LogOutput.log.1` name, third one `LogOutput.log.2`, etc. 
 ##### CustomRegionsSupport log #crs 
 `Rain World\RainWorld_Data\StreamingAssets\crsLog.txt`
-Useful for lediting.
+Useful for lediting. 
+Resolving issues with it: [[Lediting/Troubleshooting & fixing things/Connecting rooms\|Connecting rooms]]
 ##### exception log
 `Rain World\exceptionLog.txt`
-Gathers all errors that occured in game. 
+Collects all errors that occurred in game. If no errors occur, it won't be created. 
 ##### console log
-`consoleLog.txt`
+Logs what is loading and happening in the game.
+`Rain World\consoleLog.txt`

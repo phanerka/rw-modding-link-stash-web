@@ -23,6 +23,7 @@ Debug/crash control
 - [log manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069)
 - [Log Switch](https://steamcommunity.com/sharedfiles/filedetails/?id=3194112300) TODO ????
 - [TryCatch](https://steamcommunity.com/sharedfiles/filedetails/?id=2927326990)
+- [Rain World Try Catch](https://steamcommunity.com/sharedfiles/filedetails/?id=2922082966) ??? is it better???
 - [HookDebug](https://steamcommunity.com/sharedfiles/filedetails/?id=3414105084) - probably will help to detect mod compat issues.
 
 - [cutscene debug tools](https://steamcommunity.com/sharedfiles/filedetails/?id=3269401924)
