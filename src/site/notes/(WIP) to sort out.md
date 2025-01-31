@@ -4,12 +4,16 @@
 
 txt = new FLabel("font", "");
 
-rw graphics modding
-https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit?tab=t.0
-(source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/469157856852049931))
+bro what? is it finished???
+https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Simple_/_UI_implementations
 
-do i need this shit
-https://rain-world-modding.fandom.com/wiki/World_File_Format
+o0
+https://rainworldmodding.miraheze.org/wiki/DebugMouse
+
+
+https://rainworldmodding.miraheze.org/wiki/Rain_World_Code_Structure
+
+https://rainworldmodding.miraheze.org/wiki/World_File_Format
 
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files 
 https://docs.google.com/document/d/1-n6fcQlVHS_ctQh-lULal8x4FfZ8N0eOWcZJ1G6pP0U/edit
@@ -37,10 +41,6 @@ moving machines
 [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1074424844097171466)
 concept art archive
 
-bepinex modding (but i care bout graphics)
-https://drive.google.com/file/d/1eZE6EVwslhnSIFffmoUxDgUCRTAvD-zP/view
-(source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/721332622034206761))
-
 
 image converter
 oldie
@@ -64,6 +64,13 @@ note on shader creation
 note on level size
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/518874593621049344))
 
+rw graphics modding
+https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit?tab=t.0
+(source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/469157856852049931))
+
+bepinex modding (but i care bout graphics)
+https://drive.google.com/file/d/1eZE6EVwslhnSIFffmoUxDgUCRTAvD-zP/view
+(source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/721332622034206761))
 
 on graphics update...
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1194317180137902162)) one

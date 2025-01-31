@@ -3,7 +3,7 @@
 ---
 
 
-most of stuff is in assemly-sharp-public
+most of stuff is in assembly-sharp-public
 
 
 Downpour code comes with base game code; its usually marked with "`is.MSC()`" check.
@@ -15,9 +15,9 @@ https://mszegedy.github.io/rw-api-doc/html/index.html
 
 Some logic is covered in User Wiki made by Alphappy. 
 ### Weird naming
-if you cannot find a certain item/creature in came code, maybe it's actually named differently. You can look its name up in official RW wiki. example: popcorn plant -> SeedCob, iterator -> Oracle.
+if you cannot find a certain item/creature in game code, maybe it's actually named differently. You can look its name up in official RW wiki. example: popcorn plant -> [SeedCob](https://rainworld.miraheze.org/wiki/Popcorn_Plant) (check "Code name" in object card), iterator -> [Oracle](https://rainworld.miraheze.org/wiki/Iterator#Trivia).
 
-Typos: Signal -> Singal. 
+Known typos: Signal -> Singal. 
 
 ### Magic numbers
 Yeah.

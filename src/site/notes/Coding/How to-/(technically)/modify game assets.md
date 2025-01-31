@@ -9,3 +9,8 @@ https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#As
 
 ### adding new ones
 https://github.com/Rain-World-Modding/RegionKit/blob/main/README.md#asset-loading ? 
+a bit of guide
+https://github.com/orgs/Rain-World-Modding/discussions/16
+
+The orthodox way
+https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Implementing_Assets_in_Code

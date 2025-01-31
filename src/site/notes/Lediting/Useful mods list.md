@@ -7,7 +7,7 @@
 Must-haves:
 - Dev Tools: a classic. you cannot finish a room without devtools. literally.
 For Dev Tools plugins, check [[Coding/Useful mods list\|coding section]]. 
-- [Custom Region Support](https://steamcommunity.com/sharedfiles/filedetails/?id=2941565790) ([docs](https://github.com/Garrakx/Custom-Regions)): aside from providing features to make a decent region (custom pearls, threat music, landscape art), adds a separate log which helps with determining errors. 
+- [Custom Region Support](https://steamcommunity.com/sharedfiles/filedetails/?id=2941565790) ([docs](https://github.com/Garrakx/Custom-Regions),which are yoinked to [wiki](https://rainworldmodding.miraheze.org/wiki/Custom_Regions_Support)): aside from providing features to make a decent region (custom pearls, threat music, landscape art), adds a separate log which helps with determining errors during room creation process. 
 - [Warp Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2920446893) ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Warp)): teleports to any room in game. Unless you modify connections to existing rooms, you will have no way to access the one you just added in the game.
 
 Recommended:
