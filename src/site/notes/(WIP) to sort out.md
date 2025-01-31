@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/wip-to-sort-out/"}
 ---
 
+....... i need to check fandom wiki once again.
+and maybe add it as link to respective pages
+
+
 txt = new FLabel("font", "");
 
 bro what? is it finished???
@@ -27,9 +31,6 @@ rw decompiled atlases
 https://drive.google.com/drive/u/2/folders/1YzPCwjKtODHf5JRlk8cYe5YLXBHqdq90
 (source: [RW Main](https://discord.com/channels/291184728944410624/1068344185016569856/1068395551164473386))
 
-
-regarding layer4
-[RW Main](https://discord.com/channels/1237826015829557400/1237912787959812148/1329229720663097465)
 
 krita sprites
 [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1113616624105308160)
