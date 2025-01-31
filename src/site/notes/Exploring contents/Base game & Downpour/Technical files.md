@@ -14,10 +14,19 @@ https://github.com/Vultumast/RainWorldSaveEditor
 (TODO check if it still works)
 
 ##### Sandbox save file structure
+
+Honestly..... I don't know why you'd need it since you can spawn creatures via Beasmaster / DevConsole mods or unlock all objects via [[Coding/Tips#Using cheat codes\|cheat codes]]. But if you *do* need to read save files manually...
 ![sandbox-save.png](/img/user/pics/sandbox-save.png)
 
-> [!example]- List of object IDs
-> Creatures
+##### Object IDs
+
+All object types are realized via ExtNum.
+
+Creatures:
+(can be looked up in `AbstractPhysicalObject.cs -> AbstractObjectType` class)
+DP: `MoreSlugcatsEnums.cs -> AbstractObjectType`
+
+> [!example]- List of creatures' ID
 > 0-0-0 : ? 
 > 1-0-0 : slugcat 
 > 2-0-0 : ? 
@@ -34,7 +43,7 @@ https://github.com/Vultumast/RainWorldSaveEditor
 > 13-0-0 : red leech 
 > 14-0-0 : blue leech 
 > 15-0-0 : pop-snails 
-> 16-0-0 : vulture 
+> 16-0-0 : vulture | 16-0-1 king vulture | 16-0-2 scav chief (MSC)
 > \*17-0-0 : garbage worm 
 > 18-0-0 : lantern mice 
 > 19-0-0 : white squidcada 
@@ -67,7 +76,12 @@ https://github.com/Vultumast/RainWorldSaveEditor
 > 44-0-0 : dropwig 
 > 45-0-0 : king vulture 
 > 46-0-0 : hazer 
-> Items 
+
+
+Items:
+(can be looked up in `CreatureTemplate.cs -> Type` class)
+DP: `MoreSlugcatsEnums.cs -> CreatureTemplateType`
+> [!example]- List of items ID
 > 0-1-0 : rock 
 > 0-2-0 : spear 
 > 0-2-1 : explosive spear 
@@ -95,8 +109,43 @@ https://github.com/Vultumast/RainWorldSaveEditor
 > 0-28-0 : bubblegrass 
 > 0-29-0 : green neuron 
 > 0-30-0 : overseer eye
+> ---------------
+> 0-31-0 : "JokeRifle"
+> 0-32-0: "Bullet"
+> 0-33-0: "SingularityBomb"
+> 0-34-0: "Spearmasterpearl"
+> 0-35-0: "FireEgg"
+> 0-36-0: "EnergyCell"
+> 0-37-0: "Germinator"
+> 0-38-0: "Seed"
+> 0-39-0: "GooieDuck"
+> 0-40-0: "Lilypluck"
+> 0-41-0: "GlowWeed"
+> 0-42-0: "MoonCloak"
+> 0-43-0: "HalcyonPearl"
+> 0-44-0: "DancelionPeach"
+> 0-45-0: "HRGuard"
 
-(source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/505218239853363200))
+PORLS
+DP: `MoreSlugcatsEnums.cs -> DataPearlType`
+> 1 "Spearmasterpearl"
+> 2 "SU_filt" 
+> 3 "SI_chat3"
+> 4 "SI_chat4"
+> 5 "SI_chat5"
+> 6 "DM"
+> 7 "LC"
+> 8 "OE"
+> 9 "MS"
+> 10 "RM"
+> 11 "Rivulet_stomach"
+> 12 "LC_second"
+> 13 "CL" 
+> 14 "VS"
+> 15 "BroadcastMisc"
+
+
+(source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/505218239853363200) and myself)
 ##### Steam Cloud saving
 Conditions for files to be stored in Steam Cloud
 https://steamdb.info/app/312520/ufs/

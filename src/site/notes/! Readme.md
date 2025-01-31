@@ -9,7 +9,7 @@ imagine an icon here ehe
 Note that it WON'T:
  - provide "step by step" exhaustive guide. It just provides what's accessible in the public at the time being.
  - explain vague topics like "how to draw" or "how to code". That stuff is up to you.
- - have any information regarding v1.5 modding. And it's not planned to add. The document still has some v1.5 guides, if they still have some useful information.
+ - have any information regarding v1.5 modding. And it's not planned to add. The doc MAY contain some v1.5 guides but ONLY if they still provide some useful information for v1.9 modding.
 
 ### Disclaimer
 

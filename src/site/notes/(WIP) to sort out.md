@@ -7,6 +7,10 @@ txt = new FLabel("font", "");
 bro what? is it finished???
 https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Simple_/_UI_implementations
 
+Rain World Composite Screenshots:
+https://ln.sync.com/dl/5644eba30/jtkgzkhc-jxeja24s-h3edv9g3-v84qz7kn
+(source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/518599984258613248))
+
 o0
 https://rainworldmodding.miraheze.org/wiki/DebugMouse
 
@@ -100,7 +104,7 @@ when will i deal with all that stuff
 
 
 ### people to annoy
-:leditoroverload: :3
+:3 :leditoroverload: :3
 
 https://discord.com/channels/1083481230839922688/1083485771949949019/1326940012301914215
 distant city asset creator!!!!

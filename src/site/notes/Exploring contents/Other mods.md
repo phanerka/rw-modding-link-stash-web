@@ -16,7 +16,8 @@ https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 
 Decrypting lines from CRS regions:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426&searchtext=decrypt
-> 
+
+(i yoinked tutorial from mod description and translated with DeepL)
 Tutorial for using it (take the pearl text of module Howling Rift as an example):
 > 1. Get the pearl of Howling Rift.
 > 2. Give the pearl to the iterator to read, trigger the reading of the pearl text file (here is HC_PIT.txt).

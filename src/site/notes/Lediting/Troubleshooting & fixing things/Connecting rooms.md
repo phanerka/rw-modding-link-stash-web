@@ -4,6 +4,9 @@
 
 Easiest way to figure out issues is by using Custom Region Support mod. 
 
+some people use arena mode to test rooms before adding them to a region 
+so if it works in arena then the issue is not the room
+
 ### Guide from [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1191210118918979644)
 
 **game freezing or crashing upon entering region (includes infinite water gates, failing to load in arena and "abstractroom failed to load")**
