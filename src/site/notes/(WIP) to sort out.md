@@ -90,3 +90,11 @@ how room is rendered
 
 phew. oh my god.
 when will i deal with all that stuff
+
+
+### people to annoy
+:leditoroverload: :3
+
+https://discord.com/channels/1083481230839922688/1083485771949949019/1326940012301914215
+distant city asset creator!!!!
+and rain shader!!!!

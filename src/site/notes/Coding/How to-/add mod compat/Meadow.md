@@ -9,10 +9,13 @@ Logs: with default ones, in logOutput.log
 
 ### Adding dependencies
 TBA as well
-
+but basically, there will be .json file :D
 
 ### List of mods that support Meadow
 - PearlCat
 - Rotund World
 - M4rbleLines stuff
 - DressMySlugcat (sort of)
+
+### How Meadow workie
+https://www.youtube.com/watch?v=-_WsvZAkFZI

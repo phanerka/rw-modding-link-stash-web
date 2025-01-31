@@ -4,11 +4,12 @@
 
 imagine an icon here ehe
 
-\[WIP] An attempt to gather all useful info regarding RW modding in one spot, organized and intended to be easily found.
+\[WIP] An attempt to gather all useful info regarding RW v1.9 modding in one spot, organized and intended to be easily found.
 
-Note that it won't:
+Note that it WON'T:
  - provide "step by step" exhaustive guide. It just provides what's accessible in the public at the time being.
  - explain vague topics like "how to draw" or "how to code". That stuff is up to you.
+ - have any information regarding v1.5 modding. And it's not planned to add. The document still has some v1.5 guides, if they still have some useful information.
 
 ### Disclaimer
 

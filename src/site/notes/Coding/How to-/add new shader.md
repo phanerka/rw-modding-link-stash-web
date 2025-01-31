@@ -3,7 +3,7 @@
 ---
 
 ### Prerequisites
-You need a unity with same version of rain world (i forgor TODO) 
+You need unity with same version of rain world (i forgor TODO) 
 
 
 guide: 
