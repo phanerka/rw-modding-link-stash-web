@@ -13,14 +13,12 @@ effect colors:
 shit i forgot the source
 
 ### decomposing & composing rendered rooms
-composing
-https://cdn.discordapp.com/attachments/1083483045329375393/1304508040317243513/Screen_Maker.ipynb?ex=6786a849&is=678556c9&hm=87af72140640d19398d81cc534e8c828d2c6df1780866fb0185523d5109ce931&
-decomposing
-https://cdn.discordapp.com/attachments/1083483045329375393/1304508040678215720/Screen_Decomposer.ipynb?ex=6786a849&is=678556c9&hm=fb07cc94b5aed0d1719f64a0316a20479af298aff89e2d790a90e23d8170c954&
+[composing](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/render-edit/Screen_Maker-iuPPf9f6qhusUKxbR7Sng3ZPfh2TdO.ipynb)
+[decomposer](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/render-edit/Screen_Decomposer-roU2EDl43T7j8AhPBV2QQIfKPOc5Th.ipynb)
 run in google collab
 
-viewer
-https://cdn.discordapp.com/attachments/1083483045329375393/1304510443540185129/Level_Viewer.ipynb?ex=6786aa86&is=67855906&hm=9604da8b78c90272aee69d708a1c94c70955506f09bdf6be0cb0e171a4c291f2&
+[viewer](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/render-edit/Level%20Viewer-ZoJp2B2T4gf2Z6chb0tduxxhJakwfF.ipynb)
+
 
 I’ve used it to hand paint levels, but the screen decomposer can be used to tweak existing rooms. The benefit is having more control than leditors give.
 For example, maybe you want:
@@ -35,8 +33,7 @@ TODO put a preview of this somewhere
 
 To avoid Google Colab you can use Jupyter Notebook, Spyder, and the like. If you want use the old versions or modify the new ones (just change the file input/output stuff) then you could use a mobile app like Carnets.
 
-the doc
-https://cdn.discordapp.com/attachments/1083483045329375393/1304508041021886537/Manual_Camera_Rendering.pdf?ex=6786a849&is=678556c9&hm=495ab6dc327157607edbfbbe8b78d972a36d1be1942afe35b3e44f31861fef82&
+[the doc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/render-edit/Manual%20Camera%20Rendering-dRiTNeFHKb6cMFENUkcMmEcMgOu45X.pdf)
 
 source
 https://discord.com/channels/1083481230839922688/1083483045329375393/1304508041189916714

@@ -4,17 +4,23 @@
 
 (basically you'll need to follow [this](https://rainworldmodding.miraheze.org/wiki/Code_Environments) tutorial)
 ### Things to know
-c# my ass
-preferred: 
-il hooking
+C# my ass
+Useful concepts:
+- [[Coding/How to-/(technically)/modify game logic\|Hooking / IL hooking]] (to modify base game logic)
+- [[Coding/How to-/(technically)/store data\|ConditionalWeakTables]] (to store data)
+- [[Coding/How to-/add a creature or item\|EnumExt]] (to register new objects)
 ### Things to download
 - IDE for C#
 
 If you're planning to [[Coding/How to-/add new shader\|make shaders]] or make Debug version of RW yourself (there's a download link, but *what if!*), you'll have to download [[Exploring contents/Unity version\|specific version]] of Unity. It's very bulky, make sure to do it beforehand!
 #### Setting up RW for debugging
+
+> [!info] I personally highly recommend to set up Rain World for debugging.
+> If you learn how to use DNSpy features, it will massively help you to identify bugs and explore game code.
+
 - Debug world version of Rain World
-Theres one posted by community, and another one made by stupid me who likes to do things the hard way. Oh well. At least I put some additional info in there. 
-- DnSpyEx
+Theres [one](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/coding/DebugWorld-rvrKbEeqowXM2GOMBub4GDKEjJfkuZ.zip) posted by community, and another one made by stupid me who likes to do things the hard way. Oh well. At least I put some additional info in there. 
+- [DnSpy](https://github.com/dnSpyEx/dnSpy)
 ### Things to learn
 [Technical Glossary](https://rainworld.miraheze.org/wiki/Technical_Glossary)
 
