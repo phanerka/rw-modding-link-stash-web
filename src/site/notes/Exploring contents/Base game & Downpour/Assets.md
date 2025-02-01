@@ -4,6 +4,12 @@
 
 **Looking up online:** [[Drawing & making assets/References\|here]].
 
+AAAA
+rw decompiled assets, shaders, music (msc included)
+https://drive.google.com/drive/u/2/folders/1YzPCwjKtODHf5JRlk8cYe5YLXBHqdq90
+(source: [RW Main](https://discord.com/channels/291184728944410624/1068344185016569856/1068395551164473386))
+
+
 ##### Scenes & art
 ~~Anything that is NOT sprites (for creatures, items, UI, font),~~
 It's not encrypted and is located in folders in `Rain World\RainWorld_Data\StreamingAssets`
@@ -30,7 +36,10 @@ https://www.reddit.com/r/rainworld/comments/11apuoi/having_trouble_accessing_sou
 ### Sprites
 Decrypting:
 https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Sprites_and_Atlases
-
+MSC sprites conveniently put on a canvas for view: 
+[rainworldmsc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/game-contents/sprites/rainworldmsc_Split-icjBDGhflHQG62ZP2UxblH2BdozSrF.kra)
+[uispritesmsc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/game-contents/sprites/uispritesmsc-RqkQzXY70z0XFb0RwbqekPFpILChsO.kra)
+(source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1113616624105308160))
 ### Arena icons
 https://dl.dropboxusercontent.com/s/151jfgurb6otcjc/arenaicons_by_henpemaz.zip
 (source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/722224693893136466))

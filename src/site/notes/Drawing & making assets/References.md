@@ -35,7 +35,9 @@ https://bsky.app/profile/miimows.bsky.social/post/3lbcx7ncghc2s
 https://bsky.app/profile/miimows.bsky.social/post/3lb64zth4us26
 https://bsky.app/profile/miimows.bsky.social/post/3lb6eqfrszk26
 
-
+Concept art archive ([download](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/game-contents/Concept_art-XoTxWOXLmw58AGPfXhVcFF0AkYhWNm.zip))
+All concept art from here can be found on Wiki, except the ones collected from devlog.
+(source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1074424844097171466))
 ### Downpour
 "How to draw in mod thumbnail style":
 https://www.tumlook.com/kelocitta/post/766252700934471680

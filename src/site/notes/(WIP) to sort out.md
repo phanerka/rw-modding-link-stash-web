@@ -31,14 +31,6 @@ https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files
 https://docs.google.com/document/d/1-n6fcQlVHS_ctQh-lULal8x4FfZ8N0eOWcZJ1G6pP0U/edit
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/1273601361870721094))
 
-rw decompiled atlases
-https://drive.google.com/drive/u/2/folders/1YzPCwjKtODHf5JRlk8cYe5YLXBHqdq90
-(source: [RW Main](https://discord.com/channels/291184728944410624/1068344185016569856/1068395551164473386))
-
-
-krita sprites
-[RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1113616624105308160)
-
 
 yet another animated decal example
 [RWMA](https://discord.com/channels/1083481230839922688/1083484064549437470/1224797331799670844)
@@ -46,9 +38,6 @@ yet another animated decal example
 moving machines
 [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/1052390965463240704) example
 [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1052407335471038475) explanation
-
-[RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1074424844097171466)
-concept art archive
 
 
 image converter
