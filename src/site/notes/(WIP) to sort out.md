@@ -6,6 +6,10 @@
 and maybe add it as link to respective pages
 
 
+v1.5 sprites
+https://drive.google.com/drive/u/0/folders/1HnKRhfpON7VSAehGZN34qsPbZRnfHX8c
+(source: [RWMS](https://discord.com/channels/1237826015829557400/1237868553450029208/1274203573994913945))
+
 txt = new FLabel("font", "");
 
 bro what? is it finished???
@@ -57,11 +61,6 @@ v newer one
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/772724366017691648))
 
 
-blender level compositors
-one
-(source: [RW Main](https://discord.com/channels/291184728944410624/804088181904375819/1084222820818628618))
-two
-(source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/1292092416244842627))
 
 note on shader creation
 (source: [RW Main](https://discord.com/channels/1237826015829557400/1237868501960491141/1331819627981963326))

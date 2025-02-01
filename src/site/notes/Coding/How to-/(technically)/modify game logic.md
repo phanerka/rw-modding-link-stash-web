@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/how-to/technically/modify-game-logic-hooking/"}
+{"dg-publish":true,"permalink":"/coding/how-to/technically/modify-game-logic/"}
 ---
 
 hookerino

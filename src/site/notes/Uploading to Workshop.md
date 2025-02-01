@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/uploading-to-workshop/"}
 ---
 
+> [!warn] Friendly reminder to turn `checksum override option` [[Coding/Tips#checksum override option?\|off]].
 ### Custom Workshop Uploader
 
 ### The issues with in-built mod uploader

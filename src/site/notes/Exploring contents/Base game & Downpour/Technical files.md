@@ -62,7 +62,7 @@ Data for creatures: `CreatureSymbol.cs -> IconSymbol.IconSymbolData SymbolDataF
 > 29-0-0 : "PoleMimic" mimic 
 > 30-0-0 : "MirosBird" miros bird 
 > 31-0-0 : "TempleGuard" depths guardian 
-> 32-0-# : "Centipede"
+> 32-0-\# : "Centipede"
 > - 32-0-1 as smallest, 32-0-3 as largest; no 0es?
 > 
 > 33-0-0 : "RedCentipede" red centipede 
@@ -108,14 +108,14 @@ Data for items: `ItemSymbol.cs -> IconSymbol.IconSymbolData? SymbolDataFromItem
 > [!example]- List of items ID
 > 0-0-0 : "Creature"
 > 0-1-0 : "Rock" rock 
-> 0-2-# : "Spear" spears
+> 0-2-\# : "Spear" spears
 > - 0-2-0 : spear 
 > - 0-2-1 : explosive spear
 > - 0-2-2 : electric spear (MSC)
 > - 0-2-3 : firebug spear? (MSC) spear.hue != 0f
 > 
 > 0-3-0 : "FlareBomb" flashbang 
-> 0-4-# : "VultureMask" vulture masks
+> 0-4-\# : "VultureMask" vulture masks
 > - 0-4-0 vulture mask 
 > - 0-4-1 king vulture mask
 > - 0-4-2 scav chief mask (MSC) 
@@ -123,7 +123,7 @@ Data for items: `ItemSymbol.cs -> IconSymbol.IconSymbolData? SymbolDataFromItem
 > 0-5-0 : "PuffBall" gas apple 
 > 0-6-0 : "DangleFruit" pupa fruit 
 > 0-7-0 : "Oracle"
-> 0-8-# : "PebblesPearl" lore pearl 
+> 0-8-\# : "PebblesPearl" lore pearl 
 > 0-9-0 : "SLOracleSwarmer" neuron 
 > 0-10-0 : "SSOracleSwarmer" moon neuron 
 > 0-11-# : "DataPearl" pearl 

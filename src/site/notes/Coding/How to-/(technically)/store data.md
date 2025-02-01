@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/how-to/technically/store-data-cwt/"}
+{"dg-publish":true,"permalink":"/coding/how-to/technically/store-data/"}
 ---
 
 https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/ConditionalWeakTable
