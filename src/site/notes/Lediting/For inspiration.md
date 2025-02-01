@@ -9,7 +9,9 @@ Modded regions: https://alduris.github.io/mod-map/
 ### Idea generators
 Room prompt generator: https://perchance.org/hjuqhnnhq9
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1012430659312169133))
-[https://perchance.org/rainworld-room-generator](https://perchance.org/rainworld-room-generator "https://perchance.org/rainworld-room-generator") - generates random room concepts. [https://perchance.org/lediting-inspo-generator](https://perchance.org/lediting-inspo-generator "https://perchance.org/lediting-inspo-generator") - generates random region concepts. [https://perchance.org/mat-cat-challenge](https://perchance.org/mat-cat-challenge "https://perchance.org/mat-cat-challenge") - generates for the "mat and cat challenge", where you create a room that uses only one material, and two categories of tile.
+https://perchance.org/rainworld-room-generator - generates random room concepts.
+https://perchance.org/lediting-inspo-generator - generates random region concepts. 
+https://perchance.org/mat-cat-challenge - generates for the "mat and cat challenge", where you create a room that uses only one material, and two categories of tile.
 
 ### Community-made rooms
 RWMA: [\#lediting-showcase](https://discord.com/channels/1083481230839922688/1083484064549437470) | [D](discord://discord.com/channels/1083481230839922688/1083484064549437470), [\#lediting-inspiration](https://discord.com/channels/1083481230839922688/1083489325980844073) | [D](discord://discord.com/channels/1083481230839922688/1083489325980844073)

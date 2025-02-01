@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/wip-to-sort-out/"}
 ---
 
+
+tbh i wanna also ask for custom decals that are free to use
+
 ....... i need to check fandom wiki once again.
 and maybe add it as link to respective pages
 
