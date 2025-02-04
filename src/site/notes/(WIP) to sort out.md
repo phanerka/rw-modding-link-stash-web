@@ -5,6 +5,9 @@
 
 tbh i wanna also ask for custom decals that are free to use
 
+"if ure patching the mod, u have to reaload it asap or else debugger will break"
+need to check this one once again. with palette creator
+
 ....... i need to check fandom wiki once again.
 and maybe add it as link to respective pages
 
@@ -64,7 +67,7 @@ rw graphics modding
 https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit?tab=t.0
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/469157856852049931))
 
-bepinex modding (but i care bout graphics)
+partiality modding (but i care bout graphics)
 https://drive.google.com/file/d/1eZE6EVwslhnSIFffmoUxDgUCRTAvD-zP/view
 (source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/721332622034206761))
 

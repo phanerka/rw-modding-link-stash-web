@@ -139,7 +139,7 @@ bloom effect
 > Adrenaline
 
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/995066729082388661))
-
+For shaders preview, check [[Exploring contents/Base game & Downpour/Assets#Shaders\|Assets#Shaders]]
 
 ### Animated decal
 
