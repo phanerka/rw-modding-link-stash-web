@@ -5,7 +5,7 @@
 (basically you'll need to follow [this](https://rainworldmodding.miraheze.org/wiki/Code_Environments) tutorial)
 ### Things to know
 C# my ass
-Useful concepts:
+Useful concepts (you can learn them later):
 - [[Coding/How to-/(technically)/modify game logic\|Hooking / IL hooking]] (to modify base game logic)
 - [[Coding/How to-/(technically)/store data\|ConditionalWeakTables]] (to store data)
 - [[Coding/How to-/add a creature or item\|EnumExt]] (to register new objects)

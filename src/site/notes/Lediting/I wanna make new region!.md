@@ -26,6 +26,8 @@ Once you're confident with them, you'll need to request access the document and 
 
 if you ever decide to change region name during development, [this](https://github.com/glebi574/rw-fix-region-acronyms) might help you to do it quickly.
 
+##### Region baking
+just a friendly reminder to [bake](https://rainworldmodding.miraheze.org/wiki/Creating_A_Region#Baking) your rooms.
 
 ### Post-release to-do
 When you finish the region, you'll likely want its map to be shared.

@@ -14,6 +14,10 @@ It seems that some tiles were not included in the Warehouse, so it was included 
 
 
 ### Making your own
+- effects *(supported ONLY by Community Editor and Rained at the moment!!)*
+https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Effects
+Example effects are stored in Seroen's [Github repo](https://github.com/Seroen/Seroens-Repo-Files/tree/main/Effects/Example%20Effects) 
+*(remember that you can download them one by one, there's a download button above file preview!)*
 - tiles and props
 Tiles guide: [YT Video](https://www.youtube.com/watch?v=maOTf24PEKs&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=9)
 [wiki page](https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Tiles_and_Props)
@@ -54,11 +58,6 @@ https://discord.com/channels/1237826015829557400/1237868553450029208/12790788754
 
 
 Aseprite tile exporter: https://github.com/mayhemmmwith3ms/Aseprite-RW-Tile-Exporter
-
-
-- effects *(supported ONLY by Community Editor and Rained at the moment!!)*
-https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Effects
-
 ### Viewing tiles
 ##### rw_tileman
 For viewing tiles from large packs.
