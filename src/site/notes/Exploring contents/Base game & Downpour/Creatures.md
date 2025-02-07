@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/exploring-contents/base-game-and-downpour/creatures/"}
 ---
 
-NOTE: Remix "Alpha Reds" option seems to change red lizard's variations (source: bald lizard bug in meadow; [message](https://discord.com/channels/1094716194180841602/1094730628970320044/1320268178680582215) in Rain Meadow server).
+> [!warning] Remix "Alpha Reds" option seems to change red lizard's variations (source: bald lizard bug in meadow; [message](https://discord.com/channels/1094716194180841602/1094730628970320044/1320268178680582215) in Rain Meadow server).
 
 ### Creature variations
 ##### Lizards

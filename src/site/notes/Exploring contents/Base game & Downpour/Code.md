@@ -2,18 +2,25 @@
 {"dg-publish":true,"permalink":"/exploring-contents/base-game-and-downpour/code/"}
 ---
 
+Most of stuff is in assembly-sharp-public. You know how to [[Coding/Debugging & troubleshooting\|decompile]] it, right?
 
-most of stuff is in assembly-sharp-public
-
+https://rainworldmodding.miraheze.org/wiki/Rain_World_Code_Structure
 
 Downpour code comes with base game code; its usually marked with "`is.MSC()`" check.
 > [!warning] **Do not copy DLC code!**
 > Your mod will be deleted from Workshop, once discovered.
 
 https://mszegedy.github.io/rw-api-doc/html/index.html
-(but still highly suggested to explore locally as DnSpyEx got more features)
+(but still highly suggested to explore locally as DnSpy got more features)
 
 Some logic is covered in User Wiki made by Alphappy. 
+
+### Referencing variables
+This might help.
+and i should extend and redraw that AAAAAAAAAAAAA
+![variable-references-structure.png](/img/user/pics/variable-references-structure.png)
+(source: [RWMA](https://discord.com/channels/1083481230839922688/1083483097145819348/1086547453010001960))
+
 ### Weird naming
 if you cannot find a certain item/creature in game code, maybe it's actually named differently. You can look its name up in official RW wiki. example: popcorn plant -> [SeedCob](https://rainworld.miraheze.org/wiki/Popcorn_Plant) (check "Code name" in object card), iterator -> [Oracle](https://rainworld.miraheze.org/wiki/Iterator#Trivia).
 

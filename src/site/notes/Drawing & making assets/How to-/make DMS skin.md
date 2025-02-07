@@ -8,8 +8,4 @@ https://discord.com/invite/Syms6dqqFD
 
 for troubleshooting, theyve got [\#frequently-asked-questions](https://discord.com/channels/903842809734389760/1087143800054501518) | [D](discord://discord.com/channels/903842809734389760/1087143800054501518) and [\#tech-support](https://discord.com/channels/903842809734389760/1086942072327647253) | [D](discord://discord.com/channels/903842809734389760/1086942072327647253) channels! 
 
-unpacking
-https://tu.enea.sk/
-packing or smth
-https://www.codeandweb.com/tp-online
-(source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1098995144923041843))
+for unpacking, [[Exploring contents/Base game & Downpour/Assets\|Assets]] idk depacking sprite atlas?

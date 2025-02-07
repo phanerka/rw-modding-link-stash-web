@@ -30,6 +30,9 @@ use as prop
 bloom effect
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1208488425154547822))
 
+Heat distortion effect
+example: [[Lediting/Libraries/RegionKit#Machine objects\|here]] (that moving effect in center of the engine)
+
 > [!example]- List of applicable shaders
 > 
 > HoldButtonCircle

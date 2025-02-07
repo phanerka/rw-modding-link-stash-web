@@ -14,8 +14,8 @@ Downloading mods w/o workshop:
 https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 
 
-Decrypting lines from CRS regions:
-https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426&searchtext=decrypt
+### Decrypting lines from CRS regions
+https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426
 
 (i yoinked tutorial from mod description and translated with DeepL)
 Tutorial for using it (take the pearl text of module Howling Rift as an example):

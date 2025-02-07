@@ -12,6 +12,7 @@ Room prompt generator: https://perchance.org/hjuqhnnhq9
 https://perchance.org/rainworld-room-generator - generates random room concepts.
 https://perchance.org/lediting-inspo-generator - generates random region concepts. 
 https://perchance.org/mat-cat-challenge - generates for the "mat and cat challenge", where you create a room that uses only one material, and two categories of tile.
+(source: [RWMA](https://discord.com/channels/1083481230839922688/1083506128010358915/1211122741999177748))
 
 ### Community-made rooms
 RWMA: [\#lediting-showcase](https://discord.com/channels/1083481230839922688/1083484064549437470) | [D](discord://discord.com/channels/1083481230839922688/1083484064549437470), [\#lediting-inspiration](https://discord.com/channels/1083481230839922688/1083489325980844073) | [D](discord://discord.com/channels/1083481230839922688/1083489325980844073)

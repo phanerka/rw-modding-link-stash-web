@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lediting/how-to/in-leditor/add-custom-props-and-tiles-and-effects/"}
 ---
 
-### Getting already existing ones
+# Getting already existing ones
 - [Tile packs](https://seroen.github.io/Seroens-Repo/tiles.html) and [prop packs](https://seroen.github.io/Seroens-Repo/props.html) from the Warehouse (if you want to get them all: [Github repo](https://github.com/Seroen/Seroens-Repo-Files))
 **Make sure to read [permissions to use](https://github.com/Seroen/Seroens-Repo-Files/blob/main/Please%20read%20this%20if%20you%20are%20installing%20the%20region%20files.txt)!**
 - RWMS: [\#tiles-and-props](https://discord.com/channels/1237826015829557400/1240708497469866134) | [D](discord://discord.com/channels/1237826015829557400/1240708497469866134) (most recent ones might not be included in the repo above.... *yet*)
@@ -13,12 +13,14 @@ It seems that some tiles were not included in the Warehouse, so it was included 
 
 
 
-### Making your own
-- effects *(supported ONLY by Community Editor and Rained at the moment!!)*
+# Making your own
+
+### effects
+>[!warning] supported ONLY by Community Editor and Rained at the moment.
 https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Effects
 Example effects are stored in Seroen's [Github repo](https://github.com/Seroen/Seroens-Repo-Files/tree/main/Effects/Example%20Effects) 
 *(remember that you can download them one by one, there's a download button above file preview!)*
-- tiles and props
+### tiles and props
 Tiles guide: [YT Video](https://www.youtube.com/watch?v=maOTf24PEKs&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=9)
 [wiki page](https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Tiles_and_Props)
 https://github.com/Rain-World-Modding/Rain-World-Modding.github.io/blob/main/pages/region-development/level-editor/Custom-Palettes%2C-Tiles-and-Props.md
@@ -35,7 +37,7 @@ to help with init file:
 Tile Init Editor
 https://drive.google.com/file/d/15it9oLIAD5698Y-4xe6cmD_ckdAHs-As/view
 
-### Blender prop renderers
+##### Blender prop renderers
 You can create props using Blender. 
 - hard prop exporter
 	- For Blender v2.79 ([tutorial video](https://youtu.be/8Nm1jWggH2I)) 
@@ -58,7 +60,12 @@ https://discord.com/channels/1237826015829557400/1237868553450029208/12790788754
 
 
 Aseprite tile exporter: https://github.com/mayhemmmwith3ms/Aseprite-RW-Tile-Exporter
-### Viewing tiles
+### Ropes
+> [!warning] rained compatible? idk lmao
+
+TODO merge w/ tiles n props cuz rope is just another type of prop
+(source: [RMWS](https://discord.com/channels/1237826015829557400/1237868553450029208/1283877744857583737))
+# Viewing tiles
 ##### rw_tileman
 For viewing tiles from large packs.
 https://github.com/thalber/rw_tileman/releases/latest

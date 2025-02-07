@@ -40,14 +40,14 @@ Controls (non-numpad):
 6 to clear and reload sprites
 - [Checkpointer](https://steamcommunity.com/sharedfiles/filedetails/?id=3168261789) idk if its helpful tbh
 - [SuperVisualiser](https://steamcommunity.com/sharedfiles/filedetails/?id=3035802284)- shows various stats of creatures
-- [BodyChunk Visualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3252161184&searchtext=debug) ?????
+- [BodyChunk Visualizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3252161184) ?????
 
 - [Rain Reloader](https://steamcommunity.com/sharedfiles/filedetails/?id=3172072318) - quickly restarts entire game
 
 Slowing down / stopping the game:
 - [step by step](https://steamcommunity.com/sharedfiles/filedetails/?id=3311149960)?
 - [physics speed config](https://steamcommunity.com/sharedfiles/filedetails/?id=2940029256)?
-
+- [Game Speed Tweaker](https://steamcommunity.com/sharedfiles/filedetails/?id=3413376142) ???????
 ### Libraries
 - [Fisobs](https://steamcommunity.com/sharedfiles/filedetails/?id=2920541687) ([docs](https://docs.google.com/document/d/1RS8m_7cR5BIJwmRF9zZ1JnZXt-7j5pF8sm4jkRKiY1g/edit?tab=t.0#heading=h.jwenpzxh29co), [example](https://github.com/Dual-Iron/fisobs/blob/master/examples/README.md)): simplifies item and creature creation.
 - [Placed Objects Manager](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439169)([docs](https://github.com/Rain-World-Modding/Pom)) 

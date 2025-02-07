@@ -7,7 +7,27 @@ Make sure to check out [[Lediting/Getting started#Tutorials\|tutorials]] for how
 
 Regarding mod folder structure, refer to [[Exploring contents/Folder structure#Mods\|Folder structure#Mods]].
 
-### Region properties
+### Files required to set up to make a proper region
+
+##### world-xx.txt
+**Required** to be created for region to run.
+It's settings can be viewed in DevTools, in [Map](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Map-0) tab.
+Responsible for:
+- defining room types (shelters, gates, etc.)
+- connecting rooms
+- setting up creature spawns
+- preventing batflies to enter specific room
+https://rainworldmodding.miraheze.org/wiki/World_File_Format
+**Always** has to have the following format:
+https://rainworldmodding.miraheze.org/wiki/World_File_Format#Format
+
+##### properties.txt
+Not required to be created for region to run.
+Responsible for defining:
+- all kinds of region-wide properties for creatures
+- settings templates for DevTools to use
+- subregion names
+- room attributes (what creatures are more/less likely to visit specific room)
 https://rainworldmodding.miraheze.org/wiki/Properties_File
 
 ### Pre-release to-do
@@ -33,6 +53,9 @@ just a friendly reminder to [bake](https://rainworldmodding.miraheze.org/wiki/Cr
 When you finish the region, you'll likely want its map to be shared.
 https://seroen.github.io/Seroens-Repo/Dist/Tools/Cornifer.zip
 Check this and reach out Alduris to post your region map. 
+
+##### Making static image map
+
 
 ##### Map exporter beta
 > Makes interactive maps. The interface is in the remix menu. Instructions are included there, but here's the general gist of things:

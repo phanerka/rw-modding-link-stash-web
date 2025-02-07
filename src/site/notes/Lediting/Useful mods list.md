@@ -13,7 +13,7 @@ For Dev Tools plugins, check [[Coding/Useful mods list\|coding section]].
 Recommended:
 - [Better Decals](https://steamcommunity.com/sharedfiles/filedetails/?id=3241776574): allows decals to be more customized. 
 - [Freezing cycle](https://steamcommunity.com/sharedfiles/filedetails/?id=3035801552): helps to edit the room in Dev Tools without worries that rain will eventually come. More info in [[Lediting/Tips#Rain disable\|👍 Tips]]
-- [Room Screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486): self-explanatory.
+- [Room Screenshot](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486): self-explanatory. For room recording, refer to [[Recording/Recording rooms\|this]].
 - [Palette Creator](https://steamcommunity.com/sharedfiles/filedetails/?id=2959458351): cool thing but broken, unfortunately. Refer "[[Lediting/How to-/create custom palette\|create custom palette]]" file for working one.
 - [Region Acronym Complete Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3412393061): allows to use more than 2 letters for [[Lediting/I wanna make new region!#Region naming\|acronym]].
 - [Region Title Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2998885818): TODO to be added

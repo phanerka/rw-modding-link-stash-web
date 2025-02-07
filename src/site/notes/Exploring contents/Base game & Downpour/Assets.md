@@ -4,13 +4,14 @@
 
 **Looking up online:** [[Drawing & making assets/References\|here]].
 
+
 AAAA
-rw decompiled assets, shaders, music (msc included)
+rw decompiled sprite atlases, shaders, music (MSC included)
 https://drive.google.com/drive/u/2/folders/1YzPCwjKtODHf5JRlk8cYe5YLXBHqdq90
 (source: [RW Main](https://discord.com/channels/291184728944410624/1068344185016569856/1068395551164473386))
 
-
-##### Scenes & art
+# Images
+### Scenes & art
 ~~Anything that is NOT sprites (for creatures, items, UI, font),~~
 It's not encrypted and is located in folders in `Rain World\RainWorld_Data\StreamingAssets`
 Also, available in [[Drawing & making assets/References#Github images repository\|Github image repo]].
@@ -22,29 +23,31 @@ https://github.com/henpemaz/RWSceneEditor ([demo](https://dl.dropboxusercontent.
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1015364893198782624))
 
 All Downpour assets are stored as common mod assets in `Rain World\RainWorld_Data\StreamingAssets\mods\moreslugcats`
-### Sounds
-**Looking up online: [[Making music/For inspiration#In game sounds\|here]]**.
-TODO: check if it works
-All music (threat, arena, on region enter) and few other sounds are in `resources.assets`
-
-
-
-`Rain World\RainWorld_Data\StreamingAssets\loadedsoundeffects`
-Decrypting:
-https://www.reddit.com/r/rainworld/comments/11apuoi/having_trouble_accessing_sound_effects_in_game/
 
 ### Sprites
-Decrypting:
-https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Sprites_and_Atlases
+**Looking up online:**
+> [!warning] These sprites are from RW v1.5. Downpour and Remix-related assets are absent.
+https://drive.google.com/drive/u/0/folders/1HnKRhfpON7VSAehGZN34qsPbZRnfHX8c
+(source: [Reddit](https://www.reddit.com/r/rainworld/comments/1dbtzrt/comment/l7vgv0y/))
+
 MSC sprites conveniently put on a canvas for view: 
 [rainworldmsc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/game-contents/sprites/rainworldmsc_Split-icjBDGhflHQG62ZP2UxblH2BdozSrF.kra)
 [uispritesmsc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/game-contents/sprites/uispritesmsc-RqkQzXY70z0XFb0RwbqekPFpILChsO.kra)
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1113616624105308160))
+
+Decrypting:
+https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Sprites_and_Atlases
+##### Packing/depacking online or smth
+
+unpacking
+https://tu.enea.sk/
+packing or smth
+https://www.codeandweb.com/tp-online
+(source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1098995144923041843))
 ### Arena icons
 https://dl.dropboxusercontent.com/s/151jfgurb6otcjc/arenaicons_by_henpemaz.zip
 (source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/722224693893136466))
 Also, available in [[Drawing & making assets/References#Github images repository\|Github image repo]].
-
 
 ### Color hex codes
 Most encrypted assets (e.g. for slugcats) are white and colored via game code.
@@ -56,10 +59,23 @@ hsl / rgb / predetermined colors switch
 this? fr??? TODO
 https://steamcommunity.com/sharedfiles/filedetails/?id=3371225357
 
+# Sounds
+**Looking up online: [[Making music/For inspiration#In game sounds\|here]]**.
+
+### Music
+TODO: check if it works
+All music (threat, arena, on region enter) and few other sounds are in `resources.assets`
+
+
+### Sound effects
+`Rain World\RainWorld_Data\StreamingAssets\loadedsoundeffects`
+Decrypting:
+https://www.reddit.com/r/rainworld/comments/11apuoi/having_trouble_accessing_sound_effects_in_game/
+
 
 ### Shaders
 `Rain World\RainWorld_Data\StreamingAssets\shaders`
-Shaders code is decompiled and is readable via any text editor. 
+Shaders code ~~is decompiled~~ NUH UH and is readable via any text editor. 
 put preview here 
 
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083484108056957089/1095172254549168268))
@@ -68,8 +84,13 @@ put preview here
 responsible for room coloring
 https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1150360982397386823))
-### Fonts
-Some fonts are encrypted in a form of atlass. Others technically don't even exist (characters are just a bunch of sprites).
+
+# Dialogues (PORLS included)
+Encrypting and decrypting: [RW Main](https://discord.com/channels/291184728944410624/1315395285647622214/1315408396249464922)
+
+
+# Fonts
+Some fonts are encrypted in a form of sprite atlases. Others technically don't even exist (characters are just a bunch of sprites).
 
 The fonts below are made by the community, for convenient usage.
 
@@ -94,14 +115,14 @@ https://drive.google.com/file/d/1fmA2AK0utiy1Yajb10Hlny8_Bkpl8m3u/view
 
 https://docs.google.com/document/d/1QZnQgeoW3RyoR3_ZR1DGse99p1UPZRhU5LoVvCGUT_A/edit?usp=sharing
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/822957346711928922))
-### Rooms
+# Rooms
 - rendered room assets (looking red)
 are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym) 
 - rendered AND colored rooms (like how they look in game)
 TODO map exporter for online maps!!!!!
 check out [[Lediting/For inspiration#Region maps\|rain world maps]] for quick view, [[Drawing & making assets/References#Github images repository\|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  \### (all region rooms) for manual rendering.
 - project files for lediting
-refer to [[Lediting/How to-/modify rooms from the game#modify rendered image\|modify rooms from the game#modify rendered image]]
+refer to [[Lediting/How to-/modify stuff from the game#modify rendered image\|modify stuff from the game#modify rendered image]]
 
 Static map images:
 https://drive.google.com/drive/folders/1EW91sf2nWv4S6Ine6pUfnzav4zn7LUPA

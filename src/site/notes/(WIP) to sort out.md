@@ -12,9 +12,10 @@ need to check this one once again. with palette creator
 and maybe add it as link to respective pages
 
 
-v1.5 sprites
-https://drive.google.com/drive/u/0/folders/1HnKRhfpON7VSAehGZN34qsPbZRnfHX8c
-(source: [RWMS](https://discord.com/channels/1237826015829557400/1237868553450029208/1274203573994913945))
+
+tile viewer :3 (does it workie properly?)
+https://discord.com/channels/1237826015829557400/1237868553450029208/1336442384388460577
+
 
 txt = new FLabel("font", "");
 
@@ -27,23 +28,8 @@ https://ln.sync.com/dl/5644eba30/jtkgzkhc-jxeja24s-h3edv9g3-v84qz7kn
 
 o0
 https://rainworldmodding.miraheze.org/wiki/DebugMouse
-
-
-https://rainworldmodding.miraheze.org/wiki/Rain_World_Code_Structure
-
-https://rainworldmodding.miraheze.org/wiki/World_File_Format
-
-https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files 
-https://docs.google.com/document/d/1-n6fcQlVHS_ctQh-lULal8x4FfZ8N0eOWcZJ1G6pP0U/edit
-(source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/1273601361870721094))
-
-
-yet another animated decal example
-[RWMA](https://discord.com/channels/1083481230839922688/1083484064549437470/1224797331799670844)
-
-moving machines
-[RW Main](https://discord.com/channels/291184728944410624/481900360324218880/1052390965463240704) example
-[RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1052407335471038475) explanation
+isnt it better to turn into a mod
+or is there one already?
 
 
 image converter
@@ -60,8 +46,6 @@ v newer one
 note on shader creation
 (source: [RW Main](https://discord.com/channels/1237826015829557400/1237868501960491141/1331819627981963326))
 
-note on level size
-(source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/518874593621049344))
 
 rw graphics modding
 https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/edit?tab=t.0
@@ -69,6 +53,17 @@ https://docs.google.com/document/d/1IkQguJTa5aXunZkWiqjcGATXAwPkMeE726pSYiiywyc/
 
 partiality modding (but i care bout graphics)
 https://drive.google.com/file/d/1eZE6EVwslhnSIFffmoUxDgUCRTAvD-zP/view
+```
+https://drive.google.com/file/d/1eZE6EVwslhnSIFffmoUxDgUCRTAvD-zP/view
+Partiality Modding Tutorial has been updated!
+Now includes:
+- How to use EnumExt
+- Basic guideline to add sprites to Slugcat
+- Basic guideline to add new Creature/Item
+~~- No longer asks you to make MonoBehaviour in tutorial~~
+- How to actually build your mod dll in VS Community
+- Supporting Translation using ConfigMachine
+```
 (source: [RW Main](https://discord.com/channels/291184728944410624/481900360324218880/721332622034206761))
 
 on graphics update...
@@ -82,14 +77,12 @@ how tiles are rendered (should i make it more transparent?)
 a note that you can mix sounds
 https://discord.com/channels/1094716194180841602/1099382590449922098/1333822139303727256 meadow
 
-a note on how camera angles work
-(source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1241503171218505788))
 
 a shitpost doc??? is it even conprehensible???
 https://docs.google.com/document/d/1ZYdP58SA1_b5otzLhNYnkilrUuwhNutcrXAMwjryj7k/
 (source: [RW Main](https://discord.com/channels/291184728944410624/965639206561009664/1309660909739708437))
 
-how room is rendered
+Layers to create a full room
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083484064549437470/1306379121911136380))
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083484064549437470/1294397902231179418))
 
@@ -101,6 +94,9 @@ when will i deal with all that stuff
 ### people to annoy
 :3 :leditoroverload: :3
 
-https://discord.com/channels/1083481230839922688/1083485771949949019/1326940012301914215
+https://discord.com/channels/1083481230839922688/1083485771949949019/1326940012301914215 rwma
 distant city asset creator!!!!
 and rain shader!!!!
+
+https://discord.com/channels/1083481230839922688/1083484108056957089/1305779046142971904 rmwa
+dev tools effect quick reload
