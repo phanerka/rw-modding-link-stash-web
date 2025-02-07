@@ -8,6 +8,8 @@ Maybe you'd like to use Fisobs.
 
 is based on [[Coding/How to-/(technically)/create an object\|creating an object]], so make sure to check it as well. 
 ### ExtEnum
+
+All object type IDs are realized via ExtNum.
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/ExtEnum
 ### Creatures
 

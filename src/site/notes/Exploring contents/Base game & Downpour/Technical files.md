@@ -20,8 +20,6 @@ Honestly..... I don't know why you'd need it since you can spawn creatures via B
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/505218239853363200))
 ##### Object IDs
 
-All object types are realized via ExtNum.
-
 Creatures:
 (can be looked up in `CreatureTemplate.cs -> Type` class)
 DP: `MoreSlugcatsEnums.cs -> CreatureTemplateType`
@@ -98,7 +96,6 @@ Data for creatures: `CreatureSymbol.cs -> IconSymbol.IconSymbolData SymbolDataF
 > 63-0-0 : "ZoopLizard"
 > 64-0-0 : "ScavengerKing"
 > 65-0-0 : "TrainLizard"
-
 
 
 Items:

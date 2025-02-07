@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/wip-to-sort-out/"}
 ---
 
+maybe split down lediting on steps "preps", room creation, region creation, og stuff modification, post? idk
+or add tags on phases?
 
 tbh i wanna also ask for custom decals that are free to use
 
