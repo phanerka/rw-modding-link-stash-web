@@ -29,6 +29,8 @@ Responsible for defining:
 - subregion names
 - room attributes (what creatures are more/less likely to visit specific room)
 https://rainworldmodding.miraheze.org/wiki/Properties_File
+CRS adds more properties to use:
+https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#Region-Properties
 
 ### Pre-release to-do
 ##### Region naming

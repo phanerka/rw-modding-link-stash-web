@@ -4,7 +4,7 @@
 
 ### Tech tips
 
-##### Symlink
+##### Symlinking
 yeah..
 
 > - move everything from leveleditor/Levels to game/Levels or somewhere safe if you want to keep that stuff

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lediting/generally-used-tiles-n-props/"}
 ---
 
-(WIP) thats more of a personal file, but i dont mind it sharing. hope u get it, ofc.
+(WIP) thats more of a personal file, but i dont mind it sharing. if u understand it, ofc.
 ### SS / Superstructure / Five Pebbles
 Pipe entrance mostly is in crawl area
 
