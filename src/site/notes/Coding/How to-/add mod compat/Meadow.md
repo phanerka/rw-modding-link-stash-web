@@ -64,7 +64,7 @@ Purple Puff
 
 - `vibe_zones.txt`
   Define through comma:
-    - room name that will be vibe zone
+	- room name that will be vibe zone
 	- minimum radius of vibe zone
 	- maximum radius of vibe zone
 	- waveform value (acceptable: ``Trisaw``, ``Clar``, ``Litri``, ``Sine``, ``Bell``)

@@ -7,7 +7,7 @@ Most of stuff is in assembly-sharp-public. You know how to [[Coding/Debugging & 
 https://rainworldmodding.miraheze.org/wiki/Rain_World_Code_Structure
 
 Downpour code comes with base game code; its usually marked with "`is.MSC()`" check.
-> [!warning] **Do not copy DLC code!**
+> [!warning] **Do NOT copy DLC code or disable DLC checks!**
 > Your mod will be deleted from Workshop, once discovered.
 
 https://mszegedy.github.io/rw-api-doc/html/index.html
