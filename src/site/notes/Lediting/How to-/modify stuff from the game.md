@@ -2,8 +2,10 @@
 {"dg-publish":true,"permalink":"/lediting/how-to/modify-stuff-from-the-game/"}
 ---
 
+Replacing game files:
+https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories#Overwriting_Files
+Recommended to use modification files for better cross mod compatibility:
 https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Modification_Files
-
 
 # Rooms
 Unfinished guide :3

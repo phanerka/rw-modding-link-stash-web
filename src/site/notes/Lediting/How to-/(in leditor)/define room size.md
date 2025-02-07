@@ -15,7 +15,6 @@ when im referring to the red line, i mean the little red border on the inside of
 https://rainworldmodding.miraheze.org/wiki/Level_Editor#Level_Size
 ![level-size.png](/img/user/pics/level-size.png)
  (^ source: was originally yoinked from wiki but posted in [RWMA](https://discord.com/channels/1083481230839922688/1083506128010358915/1217925887518048296))
-
-Templates archive:
-
-(source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/932397000979279922))
+🤨
+### Room templates
+https://seroen.github.io/Seroens-Repo/Dist/Templates/Size%20Templates.zip

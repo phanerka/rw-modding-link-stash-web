@@ -7,7 +7,7 @@
 Must-haves:
 - Dev Tools: a classic. you cannot finish a room without devtools. literally.
 For Dev Tools plugins, check [[Coding/Useful mods list\|coding section]]. 
-- [Custom Region Support](https://steamcommunity.com/sharedfiles/filedetails/?id=2941565790) ([docs](https://github.com/Bro748/Custom-Regions/tree/dp-release), older version of which were yoinked to [wiki](https://rainworldmodding.miraheze.org/wiki/Custom_Regions_Support) bruh): aside from providing features to make a decent region (custom pearls, threat music, landscape art), adds a separate log which helps with determining errors during room creation process. 
+- [Custom Region Support](https://steamcommunity.com/sharedfiles/filedetails/?id=2941565790) ([docs](https://github.com/Bro748/Custom-Regions/tree/dp-release), older version of which were yoinked to [wiki](https://rainworldmodding.miraheze.org/wiki/Custom_Regions_Support) *bruh*): aside from providing features to make a decent region (custom pearls, threat music, landscape art), adds a separate log which helps with determining errors during room creation process. 
 - [Warp Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=2920446893) ([Wiki page](https://rainworldmodding.miraheze.org/wiki/Warp)): teleports to any room in game. Unless you modify connections to existing rooms, you will have no way to access the one you just added in the game.
 
 Recommended:
@@ -26,7 +26,5 @@ TODO: should i mention other item/creature mods here or just list to steam works
 or actually... just make foldable list?
 - [Coloured Lanterns](https://steamcommunity.com/sharedfiles/filedetails/?id=3401635588):  self explanatory. 
 
-
-[Properties Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=3344354368) ?????????
 
 Mod collection (without Palette Creator) is here. 

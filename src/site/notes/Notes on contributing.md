@@ -7,4 +7,5 @@
 - Some information is better that no information. If your doc isn't finished yet, that's alright.
 - I'm not collecting info regarding pre-v1.9 modding. No. I don't want to confuse people with pages for another version of the game. Neither I'm interested in taking care of it, to be honest.
 - Please *always* add a source where you found the guide / file. I'm not accepting it otherwise.
-- It's alright to specify some information along with link (to make provided info clearer) or give a bit of summary but it's NOT alright to copy chunks of text from there.           .... unless you can't directly point at it with a link. 
+- It's alright to specify some information along with link (to make provided info clearer) or give a bit of summary, it's alright to duplicate resources links from some guide... but it's NOT alright to copy chunks of text from there. 
+	.... unless you can't directly point at it with a link. 

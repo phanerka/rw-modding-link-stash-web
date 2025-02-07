@@ -19,7 +19,6 @@ It seems that some tiles were not included in the Warehouse, so it was included 
 >[!warning] supported ONLY by Community Editor and Rained at the moment.
 https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Effects
 Example effects are stored in Seroen's [Github repo](https://github.com/Seroen/Seroens-Repo-Files/tree/main/Effects/Example%20Effects) 
-*(remember that you can download them one by one, there's a download button above file preview!)*
 ### tiles and props
 Tiles guide: [YT Video](https://www.youtube.com/watch?v=maOTf24PEKs&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=9)
 [wiki page](https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Tiles_and_Props)

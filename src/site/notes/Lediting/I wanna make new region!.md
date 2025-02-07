@@ -3,14 +3,15 @@
 ---
 
 Whoa, that will take a lot of time and effort... but, good luck! 
-Make sure to check out [[Lediting/Getting started#Tutorials\|tutorials]] for how-to's.
+This [Wiki page](https://rainworldmodding.miraheze.org/wiki/Creating_A_Region) will be your best friend.
 
-Regarding mod folder structure, refer to [[Exploring contents/Folder structure#Mods\|Folder structure#Mods]].
+Regarding mod folder structure, refer to [[Mod structure\|Mod structure]] (duh).
 
 ### Files required to set up to make a proper region
 
 ##### world-xx.txt
 **Required** to be created for region to run.
+Can be created with FloodForge (?)
 It's settings can be viewed in DevTools, in [Map](https://rainworldmodding.miraheze.org/wiki/Dev_Tools#tabber-tabpanel-Map-0) tab.
 Responsible for:
 - defining room types (shelters, gates, etc.)

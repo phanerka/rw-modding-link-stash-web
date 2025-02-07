@@ -27,7 +27,7 @@ Theres [one](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files
 ### Tutorials 
 - [YT basic mod creation vid](https://www.youtube.com/watch?v=JG9cyL5FW90)
 - [wiki page](https://rainworldmodding.miraheze.org/wiki/BepInPlugins)
-- Unfinished [YT playlist](https://www.youtube.com/playlist?list=PLuHyVLkKIJi3P6xu-V3aRTAlwWpdDKxSa) (and likely will never be finished): for advanced modding. 
+- Unfinished [YT playlist](https://www.youtube.com/playlist?list=PLuHyVLkKIJi3P6xu-V3aRTAlwWpdDKxSa) (and likely will never be finished :( ): for advanced modding. 
 
 > [!tip] Also recommended to check [[Coding/Tips\|Tips]] for making more convenient setup.
 
