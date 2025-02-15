@@ -2,18 +2,6 @@
 {"dg-publish":true,"permalink":"/lediting/tips/"}
 ---
 
-### Tech tips
-
-##### Symlinking
-yeah..
-
-> - move everything from leveleditor/Levels to game/Levels or somewhere safe if you want to keep that stuff
-> - delete the folder leveleditor/Levels
-> - right-click-and-drag game/Levels into the leveleditor folder, "Drop here > Symbolic link"
-> - done ??
-
-(source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/767747875718299650))
-
 ### Lediting tips
 > [!warning] Disclaimer
 > this ass (yes, the person whose scribbles you're reading) has _never_ made a single own room, so please don't take what i'm saying seriously. i just... uh... like to check out others rooms. also, i read mod design channel and analyzed Solar's outskirts room reworks for a bit.

@@ -6,6 +6,10 @@
 ### Region maps
 Base & Downpour regions: https://noblecat57.github.io/index.html
 Modded regions: https://alduris.github.io/mod-map/
+
+### Room layout
+https://donjon.bin.sh/fantasy/dungeon/cavern.cgi
+(source: [RW Main](https://discord.com/channels/291184728944410624/958418404769943572/1271954989673353239))
 ### Idea generators
 Room prompt generator: https://perchance.org/hjuqhnnhq9
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1012430659312169133))

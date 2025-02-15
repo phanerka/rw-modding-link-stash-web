@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/exploring-contents/cheat-codes/"}
 ---
 
-> [!warning] Devtools have to be enabled!
+> [!warning] Devtools have to be enabled to make it work!
 
 By leaving a text file with proper name and contents 
 OR

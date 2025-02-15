@@ -13,7 +13,7 @@ refer to [[Lediting/How to-/modify in-game regions#modify rendered image\|modify
 Static map images:
 https://drive.google.com/drive/folders/1EW91sf2nWv4S6Ine6pUfnzav4zn7LUPA
 
-All palettes used by the game list were conveniently put in a single list
+All palettes used by the game were conveniently put in a single list
 https://docs.google.com/spreadsheets/d/1WloVDTQ4MOv0mnodrED1KLArJS7u5FUikr_DWpEkgsE/edit?gid=0#gid=0
 
 

@@ -13,6 +13,8 @@ https://github.com/Bro748/World-Editor/releases/tag/MSC-1.01 ([guide](https://ww
 
 FloodForge: #utils
 https://github.com/Haizlbliek/FloodForge
+
+Reveal entire region map in game: add `reveal map` to `setup.txt`
 ### Files required to set up to make a proper region
 
 ##### world-xx.txt
@@ -33,13 +35,14 @@ https://rainworldmodding.miraheze.org/wiki/World_File_Format#Format
 > To apply new creature spawns settings, you can:
 > 1) install [Spawn Resetter](https://steamcommunity.com/sharedfiles/filedetails/?id=3232143310) mod (press `BACKSPACE` while dev tools is enabled to activate) 
 > 2) wipe your save and enter the region again.  
+> 3) ... `clean spawns` in `setup.txt`? maybe? need to verify
 ##### properties.txt
 Not required to be created for region to run.
 Responsible for defining:
 - all kinds of region-wide properties for creatures
 - settings templates for DevTools to use
 - subregion names
-- room attributes (what creatures are more/less likely to visit specific room)
+- room attributes (what creatures are more/less likely or forbidden to visit specific room)
 https://rainworldmodding.miraheze.org/wiki/Properties_File
 CRS adds more properties to use:
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#Region-Properties

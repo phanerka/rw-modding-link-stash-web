@@ -4,11 +4,11 @@
 
 (is it still valid?)
 alright, it all depends on the red line in the camera editor
-72\*43 is the size of 1 camera, and 1 screen rooms
+72×43 is the size of 1 camera, and 1 screen rooms
 to get the right amount of overlap in multi-screen rooms, you need to make sure the camera's red borders touch
-camera's red border is 52\*43
-so, for the x axis 72 (the basic size for 1 screen) + (52 (the size of the red camera border for multi-screen rooms) \* one less the number of horizontal screens you want)
-then, for the y axis it's 43 \* the number of screens you want (edited)
+camera's red border is 52×43
+so, for the x axis 72 (the basic size for 1 screen) + (52 (the size of the red camera border for multi-screen rooms) × one less the number of horizontal screens you want)
+then, for the y axis it's 43 × the number of screens you want (edited)
 when im referring to the red line, i mean the little red border on the inside of the camera
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/518874593621049344))
 

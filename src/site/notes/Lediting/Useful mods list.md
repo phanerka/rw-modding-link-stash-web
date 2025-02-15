@@ -17,6 +17,7 @@ Recommended:
 - [Palette Creator](https://steamcommunity.com/sharedfiles/filedetails/?id=2959458351): cool thing but broken, unfortunately. Refer "[[Lediting/How to-/create custom palette\|create custom palette]]" file for working one.
 - [Region Acronym Complete Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3412393061): allows to use more than 2 letters for [[Lediting/Making a region TO-DOs#Region naming\|acronym]].
 - [Region Title Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2998885818): TODO to be added
+- [Spawn Resetter](https://steamcommunity.com/sharedfiles/filedetails/?id=3232143310): to reset creature spawns in the region. More info [[Lediting/Making a region TO-DOs#world-xx.txt\|here]] in warning block.
 
 Dependencies:
 - [RegionKit](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439476) ([features](https://github.com/Rain-World-Modding/RegionKit/blob/main/README.md), [docs](https://github.com/Rain-World-Modding/RegionKit/tree/main/docs)): a "unified dependency and object kit"; provides a lot of various features, starting with more room customization and ending with more devtools objects. 

@@ -16,7 +16,7 @@ Also, available in [[Drawing & making assets/References#Github images repository
 Breakdown:
 https://rainworldmodding.miraheze.org/wiki/Slideshows_and_Scenes#Breaking_up_the_basics_of_a_scene
 
-Krita plugin for convenient importing and exporting scenes:
+Krita plugin for convenient importing and exporting scenes: #utils
 https://github.com/henpemaz/RWSceneEditor ([demo](https://dl.dropboxusercontent.com/s/8pmjwl0998l2wbc/krita_2022-09-02_17-52-05.mp4))
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1015364893198782624))
 
