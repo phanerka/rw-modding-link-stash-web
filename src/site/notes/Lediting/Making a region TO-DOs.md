@@ -7,6 +7,12 @@ This [Wiki page](https://rainworldmodding.miraheze.org/wiki/Creating_A_Region) w
 
 Regarding mod folder structure, refer to [[Mod structure\|Mod structure]] (duh).
 
+### World editors
+World editor by Bro : #utils 
+https://github.com/Bro748/World-Editor/releases/tag/MSC-1.01 ([guide](https://www.youtube.com/watch?v=MgeEBM9EKS4))
+
+FloodForge: #utils
+https://github.com/Haizlbliek/FloodForge
 ### Files required to set up to make a proper region
 
 ##### world-xx.txt

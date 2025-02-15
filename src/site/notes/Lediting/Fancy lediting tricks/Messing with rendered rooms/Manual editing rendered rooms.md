@@ -33,10 +33,10 @@ TODO put a preview of this somewhere
 
 To avoid Google Colab you can use Jupyter Notebook, Spyder, and the like. If you want use the old versions or modify the new ones (just change the file input/output stuff) then you could use a mobile app like Carnets.
 
+Room rendering documentation #docs
 [the doc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/render-edit/Manual%20Camera%20Rendering-dRiTNeFHKb6cMFENUkcMmEcMgOu45X.pdf)
 
-source
-https://discord.com/channels/1083481230839922688/1083483045329375393/1304508041189916714
+(source: [RWMA](https://discord.com/channels/1083481230839922688/1083483045329375393/1304508041189916714))
 
 todo: replace with [[Exploring contents/Base game & Downpour/Assets#Documentation on LevelColor shader\|Assets#Documentation on LevelColor shader]]
 another doc on LevelColor shader (how the game renders rooms): 

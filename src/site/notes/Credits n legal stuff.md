@@ -17,7 +17,7 @@ I credited people here:
 However, if you're not happy with your info being added here / want to be credited separately, still / I forgot to credit you, reach me out. We'll figure things out. 
 dis: phanie_
 
-what i did / planning to do:
+what i did / am planning to do:
 - documented files structure (sandbox, room.txt) 
 - left modified palette creator
 - added more guides regarding debugging

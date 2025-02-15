@@ -22,6 +22,8 @@ Example effects are stored in Seroen's [Github repo](https://github.com/Seroen/S
 ### tiles and props
 Tiles guide: [YT Video](https://www.youtube.com/watch?v=maOTf24PEKs&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=9)
 [wiki page](https://rainworldmodding.miraheze.org/wiki/Creating_Custom_Tiles_and_Props)
+
+Making a tile documentation: #docs
 https://github.com/Rain-World-Modding/Rain-World-Modding.github.io/blob/main/pages/region-development/level-editor/Custom-Palettes%2C-Tiles-and-Props.md
 https://docs.google.com/document/d/147crgDMY4ScrU8vn8Kl6gOXsbfbb5raprUAXaNhWndw/edit?tab=t.0#heading=h.d8sdxl34h7wg
 **TODO: make own damn prop n tile to understand which doc is most useful**
@@ -33,10 +35,10 @@ Specs Editor
 https://drive.google.com/file/d/17hWH494JwnAOrjo3Xyh8J_QZbbuAA3CO/view
 
 to help with init file: 
-Tile Init Editor
-https://drive.google.com/file/d/15it9oLIAD5698Y-4xe6cmD_ckdAHs-As/view
+Tile Init Editor #utils
+https://drive.google.com/file/d/15it9oLIAD5698Y-4xe6cmD_ckdAHs-As/view 
 
-##### Blender prop renderers
+##### Blender prop renderers #utils
 You can create props using Blender. 
 - hard prop exporter
 	- For Blender v2.79 ([tutorial video](https://youtu.be/8Nm1jWggH2I)) 
@@ -58,18 +60,19 @@ https://discord.com/channels/1237826015829557400/1237868553450029208/12790788754
 
 
 
-Aseprite tile exporter: https://github.com/mayhemmmwith3ms/Aseprite-RW-Tile-Exporter
+Aseprite tile exporter #utils
+https://github.com/mayhemmmwith3ms/Aseprite-RW-Tile-Exporter
 ### Ropes
 > [!warning] rained compatible? idk lmao
 
 TODO merge w/ tiles n props cuz rope is just another type of prop
 (source: [RMWS](https://discord.com/channels/1237826015829557400/1237868553450029208/1283877744857583737))
 # Viewing tiles
-##### rw_tileman
+##### rw_tileman #utils
 For viewing tiles from large packs.
 https://github.com/thalber/rw_tileman/releases/latest
 
-##### Tile Visualizer
+##### Tile Visualizer #utils
 *Requires Java to be installed.*
 Shows how the tile will look in game. Allows to rotate around the tile.
 Guide: [YT video](https://youtu.be/MoX6hXQZVMw)
