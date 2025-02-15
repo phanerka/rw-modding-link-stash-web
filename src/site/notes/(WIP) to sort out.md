@@ -13,15 +13,9 @@ need to check this one once again. with palette creator
 ....... i need to check fandom wiki once again.
 and maybe add it as link to respective pages
 
-add references for drawing rw scugs to [[Drawing & making assets/References\|References]]
 
-i need to also make my own guide someday.... somehow... ( , \_,)
 
-attempt to copy RW style ig
-https://www.youtube.com/watch?v=gKoPMnomo2w&t=128s
 
-brushes
-https://www.tumblr.com/deldraws/34800237034/anybody-know-any-good-painting-brushes-for
 
 yet another blender file n explanation
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1238553690047119481/1291452791729950873))

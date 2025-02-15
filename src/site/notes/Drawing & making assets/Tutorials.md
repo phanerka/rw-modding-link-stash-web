@@ -2,10 +2,19 @@
 {"dg-publish":true,"permalink":"/drawing-and-making-assets/tutorials/"}
 ---
 
+All of them are unofficial. 
+
+i need to also make my own guide someday.... somehow... ( , \_,)
+
+brushes
+https://www.tumblr.com/deldraws/34800237034/anybody-know-any-good-painting-brushes-for
+
 Breaking down official RW art
 https://tibialtybalt.tumblr.com/post/740236289918582785/actually-lets-make-a-separate-post-for-this-one
 
-All of them are unofficial. 
+attempt to copy RW style ig
+https://www.youtube.com/watch?v=gKoPMnomo2w&t=128s
+
 Notes on coloring (Pansear ❤️ 🫡)
 https://www.tumblr.com/a-stardusted-sky/736666180473028608/do-you-have-any-tips-on-how-to-mimic-rain-worlds
 ### Slugcats
