@@ -113,17 +113,3 @@ https://drive.google.com/file/d/1fmA2AK0utiy1Yajb10Hlny8_Bkpl8m3u/view
 
 https://docs.google.com/document/d/1QZnQgeoW3RyoR3_ZR1DGse99p1UPZRhU5LoVvCGUT_A/edit?usp=sharing
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/822957346711928922))
-# Rooms
-- rendered room assets (looking red)
-are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym) 
-- rendered AND colored rooms (like how they look in game)
-TODO map exporter for online maps!!!!!
-check out [[Lediting/For inspiration#Region maps\|rain world maps]] for quick view, [[Drawing & making assets/References#Github images repository\|Github image repo]] for download and [RoomScreenshot mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3125783486) (single room) /  \### (all region rooms) for manual rendering.
-- project files for lediting
-refer to [[Lediting/How to-/modify stuff from the game#modify rendered image\|modify stuff from the game#modify rendered image]]
-
-Static map images:
-https://drive.google.com/drive/folders/1EW91sf2nWv4S6Ine6pUfnzav4zn7LUPA
-
-All palettes used by the game list were conveniently put in a single list
-https://docs.google.com/spreadsheets/d/1WloVDTQ4MOv0mnodrED1KLArJS7u5FUikr_DWpEkgsE/edit?gid=0#gid=0

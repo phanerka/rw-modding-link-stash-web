@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/exploring-contents/cheat-codes/"}
 ---
 
+> [!warning] Devtools have to be enabled!
+
 By leaving a text file with proper name and contents 
 OR
 setting up `setup.txt` file

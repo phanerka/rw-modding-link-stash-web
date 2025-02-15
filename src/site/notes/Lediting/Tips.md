@@ -14,23 +14,6 @@ yeah..
 
 (source: [RW Main](https://discord.com/channels/291184728944410624/431534164932689921/767747875718299650))
 
-##### Rain disable
-There are numerous ways to disable rain for convenient dev tooling:
-- editing "rain" value in setup.txt (check out this tutorial)
-- installing "stuck in a cycle" mod
-- \[the laziest (no-preparation) way] press "ctrl + 0" with enabled dev tools every time when rain is about to start
-
-##### testing your own room
-You can:
-- add it into arena
-> take that image and the txt with the name of your level (so it'd be testlevel.txt and txtlevel_1.png) and copy them into `Rain World/RainWorld_Data/StreamingAssets/levels`
-- install Warp Menu mod and teleport in the room in game
-- (not recommended) modify original game connections to make it accessible in game, and get there 
-
-##### room quick reload in story mode (NEED TO MAKE SURE IT WORKS)
-open Dev Tools, press R. You'll appear in shelter, and every room will be reloaded, including yours.
-sheltering also works.
-
 ### Lediting tips
 > [!warning] Disclaimer
 > this ass (yes, the person whose scribbles you're reading) has _never_ made a single own room, so please don't take what i'm saying seriously. i just... uh... like to check out others rooms. also, i read mod design channel and analyzed Solar's outskirts room reworks for a bit.
@@ -54,6 +37,7 @@ And look at this peculiar way of using small pipe tiles:
 - try applying dead & alive plant effects at the same spot
 
 ##### Region making
+Okay these tips are somewhat important because some stuff might make your region annoying / exhausting to explore / impossible without checking region map.
 - proper shelter & food distribution
 - no chokepoint rooms (required to pass to reach another gate) if possible
 - no unobvious 2 screen high rooms
