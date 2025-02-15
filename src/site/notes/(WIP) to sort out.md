@@ -14,6 +14,12 @@ need to check this one once again. with palette creator
 and maybe add it as link to respective pages
 
 
+attempt to copy RW style ig
+https://www.youtube.com/watch?v=gKoPMnomo2w&t=128s
+
+brushes
+https://www.tumblr.com/deldraws/34800237034/anybody-know-any-good-painting-brushes-for
+
 
 tile viewer :3 (does it workie properly?)
 https://discord.com/channels/1237826015829557400/1237868553450029208/1336442384388460577

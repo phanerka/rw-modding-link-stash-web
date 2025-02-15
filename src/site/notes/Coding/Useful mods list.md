@@ -14,12 +14,14 @@ If you don't like it, here are some plugins that might fix some stuff:
 - [dev console](https://steamcommunity.com/sharedfiles/filedetails/?id=2920528044) ([wiki](https://github.com/SlimeCubed/DevConsole/wiki))
 
 - [unity explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=3317633200)?
-Creatures manipulation
+##### Creatures manipulation
 - [MouseDrag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) - allows dragging and basic manipulation with existing creatures, including the player
-- [BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670)- provides convenient way to spawn creatures in-game
+- [BeastMaster](https://steamcommunity.com/sharedfiles/filedetails/?id=2920903670) - provides convenient way to spawn creatures in-game
+- [KeepThatAwayFromMe](https://steamcommunity.com/sharedfiles/filedetails/?id=2924212543) - to get rid of certain type of creatures.
+- Dev Console: allows to spawn creature with certain ID (more info [[Exploring contents/Base game & Downpour/Creatures#Creature IDs\|here]])
+- DevTools: when exabled in room, pressing `8` kills every creature in the room except scug
 
-
-Debug/crash control
+##### Debug/crash control
 - [log manager](https://steamcommunity.com/sharedfiles/filedetails/?id=3138158069)
 - [Log Switch](https://steamcommunity.com/sharedfiles/filedetails/?id=3194112300) TODO ????
 - [TryCatch](https://steamcommunity.com/sharedfiles/filedetails/?id=2927326990)
@@ -44,7 +46,7 @@ Controls (non-numpad):
 
 - [Rain Reloader](https://steamcommunity.com/sharedfiles/filedetails/?id=3172072318) - quickly restarts entire game
 
-Slowing down / stopping the game:
+##### Slowing down / stopping the game:
 - [step by step](https://steamcommunity.com/sharedfiles/filedetails/?id=3311149960)?
 - [physics speed config](https://steamcommunity.com/sharedfiles/filedetails/?id=2940029256)?
 - [Game Speed Tweaker](https://steamcommunity.com/sharedfiles/filedetails/?id=3413376142) ???????

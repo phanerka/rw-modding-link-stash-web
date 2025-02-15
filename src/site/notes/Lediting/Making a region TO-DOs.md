@@ -22,6 +22,11 @@ https://rainworldmodding.miraheze.org/wiki/World_File_Format
 **Always** has to have the following format:
 https://rainworldmodding.miraheze.org/wiki/World_File_Format#Format
 
+> [!warning] Note on creature spawns
+> Region creature spawns settings are read only **once**, when you enter the region for the first time. Afterwards, they're read from your save. 
+> To apply new creature spawns settings, you can:
+> 1) install [Spawn Resetter](https://steamcommunity.com/sharedfiles/filedetails/?id=3232143310) mod (press `BACKSPACE` while dev tools is enabled to activate) 
+> 2) wipe your save and enter the region again.  
 ##### properties.txt
 Not required to be created for region to run.
 Responsible for defining:

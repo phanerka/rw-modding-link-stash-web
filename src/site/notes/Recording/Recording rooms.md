@@ -9,10 +9,12 @@ zzzzzzzzzzzzzzzzzzzzzoooom
 exists somewhere i forgor.....
 oh its from concealed garden which wasnt ported yet awwww 3: 
 
-### Getting rid of creatures
-- To get rid of scug: just get [Mouse Drag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) mod and delete scug lmao
-- devtools duh
-- [KeepThatAwayFromMe](https://steamcommunity.com/sharedfiles/filedetails/?id=2924212543) mod
+### Messing with creatures
+check [[Coding/Useful mods list\|this]].
+
+To get rid of slugcat:
+just get [Mouse Drag](https://steamcommunity.com/sharedfiles/filedetails/?id=3008864244) mod and delete scug lmao
+
 
 ###  TAS (frame-perfect input), i suppose
 never thought id be interested in that
