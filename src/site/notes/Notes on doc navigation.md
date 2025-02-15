@@ -4,9 +4,9 @@
 
 ### Tags
 For convenient looking for information
-utilities: \\#utils
-non-wiki documentations: \\#docs
-library dependant tags: \\#crs (Custom Regions Support), \\#regionKit
+utilities: `#utils`
+non-wiki documentations: `#docs`
+library dependant tags: `#crs` (Custom Regions Support), `#regionKit`
 
 ### Discord server links
 For the sake of convenience, every discord server channel has got both links for browser and the app (mentioned as ``| D`` ). Example:

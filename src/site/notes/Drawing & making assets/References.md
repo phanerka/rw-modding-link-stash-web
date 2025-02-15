@@ -39,6 +39,4 @@ Concept art archive ([download](https://nqywadcmwusjqlrg.public.blob.vercel-stor
 All concept art from here can be found on Wiki, except the ones collected from devlog.
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1074424844097171466))
 ### Downpour
-"How to draw in mod thumbnail style":
-https://www.tumlook.com/kelocitta/post/766252700934471680
 https://rainworld.miraheze.org/wiki/Official_Art/Downpour

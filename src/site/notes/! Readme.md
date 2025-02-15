@@ -11,6 +11,7 @@ Note that it WON'T:
  - explain vague topics like "how to draw" or "how to code". That stuff is up to you.
  - have any information regarding v1.5 modding. And it's not planned to to be added. The doc MAY contain some v1.5 guides but ONLY if they still provide some useful information for v1.9 modding.
 
+Entire documentation is made with Obsidian. If you want to have it offline, then sure, get the vault here! TODO
 ### Disclaimer
 
 2 notes.

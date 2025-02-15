@@ -8,4 +8,5 @@
 - I'm not collecting info regarding pre-v1.9 modding. No. I don't want to confuse people with pages for another version of the game. Neither I'm interested in taking care of it, to be honest.
 - Please *always* add a source where you found the guide / file. I'm not accepting it otherwise.
 - It's alright to specify some information along with link (to make provided info clearer) or give a bit of summary, it's alright to duplicate resources links from some guide... but it's NOT alright to copy chunks of text from there. 
-	.... unless you can't directly point at it with a link. 
+	.... unless you can't directly point at it with a link.
+- sorry but i'm not accepting requests to [[Drawing & making assets/References#Tutorials\|drawing tutorials]] paragaph! I've got own standards there and they might conflict with others'. Main point is to have style as close to RW as possible.
