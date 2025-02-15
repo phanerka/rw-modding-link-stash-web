@@ -7,4 +7,5 @@ There are 2 ways:
 The workshop version is broken. I sorta.... "fixed" it. partially. Couldn't bother to fix better. Here. 
 
 - manually
+Palette creation guide: #docs
 https://docs.google.com/document/d/1fY_KEpD5RaXHS7Ho-kPee4Fe-xIBp5ilMuQ0-UBG0is/edit?pli=1&tab=t.0#heading=h.cnykpdgzckp4

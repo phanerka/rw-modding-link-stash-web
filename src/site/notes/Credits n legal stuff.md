@@ -17,6 +17,15 @@ I credited people here:
 However, if you're not happy with your info being added here / want to be credited separately, still / I forgot to credit you, reach me out. We'll figure things out. 
 dis: phanie_
 
+what i did / planning to do:
+- documented files structure (sandbox, room.txt) 
+- left modified palette creator
+- added more guides regarding debugging
+- drew a pic :3
+- redrew some of the pictures to be more stylized
+- looked for resources
+- organized files
+
 the sleepy scug pic is made by me bruh.... based on survivor sleeping sprite ofc
 quintennial: shared their modified Rodondo font for my title thing. Thx a lot :3
 and Olly Wood since they're original creators of the font
