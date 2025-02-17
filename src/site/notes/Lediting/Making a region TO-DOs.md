@@ -26,6 +26,7 @@ Responsible for:
 - connecting rooms
 - setting up creature spawns
 - preventing batflies to enter specific room
+#wiki
 https://rainworldmodding.miraheze.org/wiki/World_File_Format
 **Always** has to have the following format:
 https://rainworldmodding.miraheze.org/wiki/World_File_Format#Format
@@ -43,10 +44,13 @@ Responsible for defining:
 - settings templates for DevTools to use
 - subregion names
 - room attributes (what creatures are more/less likely or forbidden to visit specific room)
+#wiki
 https://rainworldmodding.miraheze.org/wiki/Properties_File
-CRS adds more properties to use:
+CRS adds more properties to use for regions: #crs
+- general properties
 https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#Region-Properties
-
+- overseers related properties
+https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/CustomProjections.md
 ### Pre-release TO-DO
 ##### Region naming
 og regions acronyms
@@ -57,6 +61,7 @@ Region lease:
 
 acronym
 https://rainworld-region-lease-improved.glitch.me/
+#sheets
 https://docs.google.com/spreadsheets/d/14wt42_ZalI5di8zpUFx3WvPWldC_L7SwIbgb_TxOpUk/edit#gid=0 (to get access, you'll have to enter [this](https://forms.gle/gdaGmLJuBJb4LvMS7) form)
 Once you're confident with them, you'll need to request access the document and add own values. 
 
@@ -67,11 +72,18 @@ Includes:
 - Token usage chart (blue/gold)
 - Region acronym chart
 
+Mass renaming acronym in mod folder #utils
 if you ever decide to change region name during development, [this](https://github.com/glebi574/rw-fix-region-acronyms) might help you to do it quickly.
+
+##### (optional) Connecting to other modded regions
+#crs only.
+After agreeing with other mod authors to connect your region to theirs, check this
+https://github.com/Bro748/Custom-Regions/tree/dp-release?tab=readme-ov-file#pearls
 
 ##### Region baking
 just a friendly reminder to [bake](https://rainworldmodding.miraheze.org/wiki/Creating_A_Region#Baking) your rooms.
 You can also bake via Remix menu in RegionKit
+i need to add regarding debugging..... ouf todo
 
 ### Post-release TO-DO
 When you finish the region, you'll likely want its map to be shared.

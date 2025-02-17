@@ -13,7 +13,7 @@ https://drive.google.com/drive/u/2/folders/1YzPCwjKtODHf5JRlk8cYe5YLXBHqdq90
 ~~Anything that is NOT sprites (for creatures, items, UI, font),~~
 It's not encrypted and is located in folders in `Rain World\RainWorld_Data\StreamingAssets`
 Also, available in [[Drawing & making assets/References#Github images repository\|Github image repo]].
-Breakdown:
+Breakdown: #wiki
 https://rainworldmodding.miraheze.org/wiki/Slideshows_and_Scenes#Breaking_up_the_basics_of_a_scene
 
 Krita plugin for convenient importing and exporting scenes: #utils
@@ -33,7 +33,7 @@ MSC sprites conveniently put on a canvas for view:
 [uispritesmsc](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/game-contents/sprites/uispritesmsc-RqkQzXY70z0XFb0RwbqekPFpILChsO.kra)
 (source: [RW Main](https://discord.com/channels/291184728944410624/296133304632213504/1113616624105308160))
 
-Decrypting:
+Decrypting: #wiki
 https://rainworldmodding.miraheze.org/wiki/Custom_Assets#Sprites_and_Atlases
 ##### Packing/depacking online or smth
 

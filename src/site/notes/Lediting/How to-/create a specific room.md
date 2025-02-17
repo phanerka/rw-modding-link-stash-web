@@ -3,7 +3,7 @@
 ---
 
 # Gate
-##### Templates
+##### Templates #templates
 https://seroen.github.io/Seroens-Repo/Dist/Templates/Gate%20Templates.zip
 ##### Guide from LudoCrypt
 https://www.youtube.com/watch?v=t1_JnDUNtaY&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=5
@@ -22,10 +22,16 @@ GATE_XX_YY : DISCONNECTED, YY_A01 : GATE
 4. youll also need to use a modify file for `world/gates/locks.txt`, to add your gates locks in the format:
 `[ADD]GATE_XX_YY : KARMALEFT : KARMARIGHT` (where karmaleft and karmaright are numbers 1-5. also regionkit has some custom gate lock stuff, check it out on the github)
 
-For karma 6+ OR any other custom requirement, use RegionKit. 
+If you want to:
+- add uncommon requirement (6+ karma, always unlocked, one-directioned, mark of communication/glow as condition)
+- make multi-screen gate
+- modify some gate animation settings,
+use RegionKit:
+https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/ExtendedGates.md (for requirement)
+https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/GateCustomization.md (for everything else)
 
 # Shelter
-##### Tempates
+##### Tempates #templates
 https://seroen.github.io/Seroens-Repo/Dist/Templates/Shelter%20Templates.zip
 ### Guide by LudoCrypt
 Part 1: https://www.youtube.com/watch?v=nwpcTGyYTwY&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=6

@@ -8,7 +8,7 @@ It explains differences between editors pretty well. Personally I use **Rained**
 - preview of lediting features (tiles, props, effects):
     - [google drive link](https://drive.google.com/drive/u/0/folders/1mDhiQAi7CHkGy0Fd6Oi0s8tOZr7H152-) (source: [RWMA](https://discord.com/channels/1083481230839922688/1083506128010358915/1210363538397331567))
     - updated list of effect previews (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1322828255190843412))
-- (optional) example mod [zip file link from discord](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/regionTemplate-uSyLk5ZX5XkDsNsaUn9NeCVu0Gz1lf.zip) (source: [RWMA](https://discord.com/channels/1083481230839922688/1083506128010358915/1268631425532563496))
+- (optional) example mod [zip file link from discord](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/lediting/regionTemplate-uSyLk5ZX5XkDsNsaUn9NeCVu0Gz1lf.zip) (source: [RWMA](https://discord.com/channels/1083481230839922688/1083506128010358915/1268631425532563496)) #templates
 ### Things to learn
 General suggestion is to explore original game rooms and get acknowledged with what materials are used, what materials go well, etc.
 - https://rainworldmodding.miraheze.org/wiki/The_Architecture_of_Rain_World

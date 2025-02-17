@@ -33,8 +33,8 @@ If you're planning to [[Coding/How to-/add new shader\|make shaders]] or make De
 > [!tip] Also recommended to check [[Coding/Tips\|Tips]] for making more convenient setup.
 
 
-### Example mod
-https://github.com/NoirCatto/RainWorldRemix/tree/master/Templates
+### Example mod #templates
+https://github.com/NoirCatto/RainWorldRemix/tree/master/Templates 
 ### Useful links 
 ##### wikis
 [Modding Wiki](https://rainworldmodding.miraheze.org/wiki/Main_Page) (duh) - will most likely provide some info

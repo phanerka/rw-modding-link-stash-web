@@ -19,7 +19,7 @@ Recommended:
 - [Region Title Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2998885818): TODO to be added
 - [Spawn Resetter](https://steamcommunity.com/sharedfiles/filedetails/?id=3232143310): to reset creature spawns in the region. More info [[Lediting/Making a region TO-DOs#world-xx.txt\|here]] in warning block.
 
-Dependencies:
+##### Dependencies
 - [RegionKit](https://steamcommunity.com/sharedfiles/filedetails/?id=2920439476) ([features](https://github.com/Rain-World-Modding/RegionKit/blob/main/README.md), [docs](https://github.com/Rain-World-Modding/RegionKit/tree/main/docs)): a "unified dependency and object kit"; provides a lot of various features, starting with more room customization and ending with more devtools objects. 
 - [Lunacy](https://steamcommunity.com/sharedfiles/filedetails/?id=2930814260) ([docs](https://github.com/Nacu0021/Lunacy)): yet another feature library. 
 - [The M4rbelous Entity Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3311812030): new creatures and items pack. 

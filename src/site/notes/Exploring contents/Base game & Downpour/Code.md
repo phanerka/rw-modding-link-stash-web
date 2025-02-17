@@ -3,7 +3,7 @@
 ---
 
 Most of stuff is in assembly-sharp-public. You know how to [[Coding/Debugging & troubleshooting\|decompile]] it, right?
-
+#wiki
 https://rainworldmodding.miraheze.org/wiki/Rain_World_Code_Structure
 
 Downpour code comes with base game code; its usually marked with "`is.MSC()`" check.

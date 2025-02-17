@@ -4,9 +4,14 @@
 
 ### Tags
 For convenient looking for information
-utilities: `#utils`
+helpful RW-related plugins, apps and websites: `#utils`
 non-wiki documentations: `#docs`
-library dependant tags: `#crs` (Custom Regions Support), `#regionKit`
+wiki documentations: `#wiki`
+spreadsheets for cross-mod support: \#sheets
+mod and room templates: `#templates`
+library dependent tags: 
+- `#crs` (Custom Regions Support)
+- `#regionKit`
 
 ### Discord server links
 For the sake of convenience, every discord server channel has got both links for browser and the app (mentioned as ``| D`` ). Example:

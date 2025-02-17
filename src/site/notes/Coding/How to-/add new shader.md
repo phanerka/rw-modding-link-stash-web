@@ -15,7 +15,7 @@ https://twitter.com/joar_lj/status/1525445116789497856 (a [mirror](https://nitte
 https://github.com/PJB3005/RainWorldMods/tree/master/ShaderReload for hot reload
 
 
-**Exploring existing shaders:** [[Exploring contents/Base game & Downpour/Assets#shaders\|Assets#shaders]]
+**Exploring existing shaders:** [[Exploring contents/Base game & Downpour/Assets#Shaders\|Assets#Shaders]]
 
 ;-; i dont wanna copy stuff
 
