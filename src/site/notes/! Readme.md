@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"]}
 ---
 
-imagine an icon here ehe
+![link stash.png](/img/user/pics/web/link%20stash.png)
 
 Heyo and welcome to WIP link stash! Please enjoy your stay ʕ●.●ʔ
 

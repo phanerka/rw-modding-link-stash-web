@@ -8,10 +8,7 @@ You can:
 - install Warp Menu mod and teleport in the room in game
 - (not recommended) modify original game connections to make it accessible in game, and get there 
 
-# Setting up convenient env
-This is a list of things that might help to 
-- quickly look at freshly rendered room in the game
-- continue setting up the room in the game via dev tools
+# Setting up convenient environment
 
 ### Open the room on game launch
 > [!warning] Meadow overrides this value.
