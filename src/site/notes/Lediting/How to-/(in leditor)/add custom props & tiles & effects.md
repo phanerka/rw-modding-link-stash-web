@@ -4,7 +4,6 @@
 
 # Getting already existing ones
 - [Tile packs](https://seroen.github.io/Seroens-Repo/tiles.html) and [prop packs](https://seroen.github.io/Seroens-Repo/props.html) from the Warehouse (if you want to get them all: [Github repo](https://github.com/Seroen/Seroens-Repo-Files))
-**Make sure to read [permissions to use](https://github.com/Seroen/Seroens-Repo-Files/blob/main/Please%20read%20this%20if%20you%20are%20installing%20the%20region%20files.txt)!**
 - RWMS: [\#tiles-and-props](https://discord.com/channels/1237826015829557400/1240708497469866134) | [D](discord://discord.com/channels/1237826015829557400/1240708497469866134) (most recent ones might not be included in the repo above.... *yet*)
 - [Mo' Tiles](https://github.com/rwslugcat/mo-tiles-rw/releases/tag/release)
 - [TotallyDutch's RW Tiles](https://github.com/totallydutch/Totallydutch-s-RW-tiles)

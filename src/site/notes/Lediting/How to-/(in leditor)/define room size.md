@@ -16,5 +16,7 @@ https://rainworldmodding.miraheze.org/wiki/Level_Editor#Level_Size
 ![level-size.png](/img/user/pics/level-size.png)
  (^ source: was originally yoinked from wiki but posted in [RWMA](https://discord.com/channels/1083481230839922688/1083506128010358915/1217925887518048296))
 🤨
-### Room templates
+### Multiscreen room templates #templates
 https://seroen.github.io/Seroens-Repo/Dist/Templates/Size%20Templates.zip
+For separate files download:
+https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects/Templates/Size%20Templates

@@ -13,6 +13,8 @@ To find technical files e.g. saves created by other mods (except [[Exploring con
 Downloading mods w/o workshop: 
 https://rainworldmodding.miraheze.org/wiki/Remix_Mods_Outside_of_Steam
 
+Region mods' project files:
+
 
 ### Decrypting lines from CRS regions
 https://steamcommunity.com/sharedfiles/filedetails/?id=3213183426

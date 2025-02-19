@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/coding/how-to/technically/add-settings-in-remix-menu/"}
 ---
 
+[Remix Menu Template examples](https://steamcommunity.com/sharedfiles/filedetails/?id=2961618749) mod
+
 https://rainworldmodding.miraheze.org/wiki/User:Alphappy/Live/Remix_Menu
 
 https://rainworldmodding.miraheze.org/wiki/ConfigMachine

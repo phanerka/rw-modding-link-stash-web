@@ -52,3 +52,5 @@ yeah..
 ### room quick reload in story mode (NEED TO MAKE SURE IT WORKS)
 open Dev Tools, press R. You'll appear in shelter, and every room will be reloaded, including yours.
 sheltering also works.
+
+oooor go into another room and press Q (it will give a food pip AND reload every room except the one you're in)

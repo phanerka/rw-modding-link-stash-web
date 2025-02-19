@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/drawing-and-making-assets/how-to/make-a-scene/"}
 ---
 
+https://rainworldmodding.miraheze.org/wiki/Slideshows_and_Scenes
 
-to be deleted? maybe?
-[[Coding/How to-/create a new slugcat campaign#Intro scenes n stuff\|create a new slugcat campaign#Intro scenes n stuff]]
+This [[Exploring contents/Base game & Downpour/Assets#Krita plugin for convenient importing and exporting scenes utils\|Krita plugin]] might help you to make scene sprites easier.
+

@@ -7,7 +7,7 @@
 C# my ass
 Useful concepts (you can learn them later):
 - [[Coding/How to-/(technically)/modify game logic\|Hooking / IL hooking]] (to modify base game logic)
-- [[Coding/How to-/(technically)/store data\|ConditionalWeakTables]] (to store data)
+- [[Coding/How to-/(technically)/store data for existing objects\|ConditionalWeakTables]] (to store data)
 - [[Coding/How to-/add a creature or item\|EnumExt]] (to register new objects)
 ### Things to download
 - IDE for C#
@@ -17,8 +17,8 @@ If you're planning to [[Coding/How to-/add new shader\|make shaders]] or make De
 > [!info] Disclaimer
 > It's your choice whether you want to do it or not.
  > 
-> I personally highly recommend to set up it up. If you learn how to use DNSpy features, it will massively help you to identify bugs and explore game code.
-> But Debug world is proven to be problematic with *any* enabled mod that has custom region and sometimes is hard to attach to.
+> Personally I advise to set up it up. If you learn how to use DNSpy features, it will massively help you to identify bugs and explore game code.
+> But Debug World is proven to be problematic with *any* enabled mod that has custom region and sometimes is hard to attach to.
 
 - Debug world versions of Rain World
 	- the [one](https://nqywadcmwusjqlrg.public.blob.vercel-storage.com/notes/files/coding/DebugWorld-rvrKbEeqowXM2GOMBub4GDKEjJfkuZ.zip) from \#modding-resources channel. Note that has modified `Assembly-CSharp.dll` file, which causes all mods to be verified by mod version, not checksum. Also, it doesn't work with Meadow.
@@ -38,7 +38,7 @@ If you're planning to [[Coding/How to-/add new shader\|make shaders]] or make De
 > [!tip] Also recommended to check [[Coding/Tips\|Tips]] for making more convenient setup.
 
 
-### Example mod #templates
+### Example of code mod #templates
 https://github.com/NoirCatto/RainWorldRemix/tree/master/Templates 
 ### Useful links 
 ##### wikis

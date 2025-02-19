@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/notes-on-doc-navigation/"}
 ---
 
+Navigation on Lediting folder: [[Lediting/Navigation\|here]]
+Navigation on Coding folder: TBA??? maybe?????
+
 ### Tags
 For convenient looking for information
 helpful RW-related plugins, apps and websites: `#utils`

@@ -16,7 +16,7 @@ Also, available in [[Drawing & making assets/References#Github images repository
 Breakdown: #wiki
 https://rainworldmodding.miraheze.org/wiki/Slideshows_and_Scenes#Breaking_up_the_basics_of_a_scene
 
-Krita plugin for convenient importing and exporting scenes: #utils
+##### Krita plugin for convenient importing and exporting scenes: #utils
 https://github.com/henpemaz/RWSceneEditor ([demo](https://dl.dropboxusercontent.com/s/8pmjwl0998l2wbc/krita_2022-09-02_17-52-05.mp4))
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1015364893198782624))
 
@@ -51,6 +51,32 @@ Also, available in [[Drawing & making assets/References#Github images repository
 Most encrypted assets (e.g. for slugcats) are white and colored via game code.
 ![hex-colors.png](/img/user/pics/hex-colors.png)
 (source: [RW Main](https://discord.com/channels/291184728944410624/305139167300550666/1081023267378303036))
+
+List of other colors:
+> [!example]- Secondary and tetriary colors for base slugcats
+> Monk: `C7AB3B`, `4FBA42`
+> Survivor: `A68E97`, `40A6D1`
+> Hunter: `6F4D66`, `992999`
+> Nightcat: `19082D`, `F5BFF2`
+
+Nightcat's body: `1E112E`
+
+> [!example]- Downpour slugcats
+> Arti's blue pup: `99B2E6`
+> Arti's green pup: `7ADECF`
+> 
+> Spearmarter's body (more correct? dunno): `4C2C65`
+> Spearmaster's needles: `FFFFFF`
+> Spearmaster's needle veins: `B75544`
+> 
+> Rivulet's gills: `DF2DEA`
+> 
+> Saint's tongue: `FF80A6`
+> 
+> Inv's body: `17244F`
+
+(sources: [RW Main](https://discord.com/channels/291184728944410624/952002932826583080/1100566406828924978), [RW Main](https://discord.com/channels/291184728944410624/952002932826583080/1266033578882502777))
+
 ~~Besides, it's possible to find values in game, upon opening color picker (for example, in custom slugcat color selection)-~~
 where tf did i see that feature????
 hsl / rgb / predetermined colors switch
@@ -78,7 +104,7 @@ put preview here
 
 (source: [RWMA](https://discord.com/channels/1083481230839922688/1083484108056957089/1095172254549168268))
 
-##### Documentation on LevelColor shader 
+##### Documentation on LevelColor shader #docs
 responsible for room coloring
 https://gist.github.com/EtiTheSpirit/97dfdc63f667e19acb6314dc8c1e2d18
 (source: [RW Main](https://discord.com/channels/291184728944410624/838185248981385256/1150360982397386823))

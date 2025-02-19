@@ -25,7 +25,7 @@ And look at this peculiar way of using small pipe tiles:
 - try applying dead & alive plant effects at the same spot
 
 ##### Region making
-Okay these tips are somewhat important because some stuff might make your region annoying / exhausting to explore / impossible without checking region map.
+Okay these tips are somewhat important because some stuff might make your region exhausting to explore / navigate without checking region map.
 - proper shelter & food distribution
 - no chokepoint rooms (required to pass to reach another gate) if possible
 - no unobvious 2 screen high rooms

@@ -3,8 +3,10 @@
 ---
 
 # Gate
-##### Templates #templates
+##### Gate templates #templates
 https://seroen.github.io/Seroens-Repo/Dist/Templates/Gate%20Templates.zip
+For separate files download:
+https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects/Templates/Gate%20Templates
 ##### Guide from LudoCrypt
 https://www.youtube.com/watch?v=t1_JnDUNtaY&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=5
 
@@ -31,8 +33,10 @@ https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/ExtendedGates.md 
 https://github.com/Rain-World-Modding/RegionKit/blob/main/docs/GateCustomization.md (for everything else)
 
 # Shelter
-##### Tempates #templates
+##### Shelter tempates #templates
 https://seroen.github.io/Seroens-Repo/Dist/Templates/Shelter%20Templates.zip
+For separate files download:
+https://github.com/Seroen/Seroens-Repo-Files/tree/main/LevelEditorProjects/Templates/Shelter%20Templates
 ### Guide by LudoCrypt
 Part 1: https://www.youtube.com/watch?v=nwpcTGyYTwY&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=6
 Part 2: https://www.youtube.com/watch?v=7GZ84MrSAas&list=PLOpeR3bQUKEJIGBJ3TATHBLmNvZwyYioT&index=7
