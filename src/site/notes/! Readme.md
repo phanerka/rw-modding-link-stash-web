@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"]}
 ---
 
-![link stash.png](/img/user/pics/web/link%20stash.png)
+![link-stash.png](/img/user/pics/web/link-stash.png)
+
+
 
 Heyo and welcome to WIP link stash! Please enjoy your stay ʕ●.●ʔ
 
