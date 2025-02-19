@@ -34,7 +34,7 @@ There are numerous ways to disable rain for convenient dev tooling:
 - add `no rain` string to ``Rain World/RainWorld_Data/StreamingAssets/setup.txt`` (if the file doesn't exist, create it)
 	More information on `setup.txt` [[Exploring contents/Cheat codes\|here]].
 - install "[Stuck in a Cycle](https://steamcommunity.com/sharedfiles/filedetails/?id=3035801552)" mod (press MAP while paused to toggle)
-- \[the laziest (no-preparation) way] press `9` with enabled dev tools every time when rain is about to start
+- \[the laziest (no-preparation) way] press `9` with enabled Dev Tools every time when rain is about to start
 
 ### Symlinking
 yeah..
