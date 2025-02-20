@@ -27,6 +27,10 @@ If attaching doesn't work, try
 - disabling all network drivers (VPN, local network) except the one that provides internet connection
 - ??? https://docs.unity3d.com/6000.0/Documentation/Manual/managed-code-debugging.html
 
+### Using breakpoints
+Will work ONLY if you added the mod AND attached to the game.
+todo goddammit
+
 gotta add vids vids vids
 how to use dnspy vid?
 
@@ -37,6 +41,7 @@ how to use dnspy vid?
 > You might want to follow same steps to tweak different mod, but you'll have to keep in mind that:
 > - u gotta know IL code son cause writing in C# might break things
 > - u gotta replace file in DNSpy every time you change smth or it will break
+> 
 > Instead, it's usually advised to just make a separate mod what will hook the code you want to change.
 
 

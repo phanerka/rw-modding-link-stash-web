@@ -13,7 +13,8 @@ Before you start with anything, please check navigation links. It might help wit
 
 
 
-Entire documentation is made with Obsidian. If you want to have it offline, then sure, get the vault here! TODO
+Entire documentation is made with Obsidian and powered by [Digital Garden](https://dg-docs.ole.dev/) plugin (possibly I will modify web page structure later to make website more UX friendly).
+If you want to have it offline, then sure, get the vault here! TODO
 ### Disclaimers
 This website WON'T:
  - replace official modding wiki. Instead, it directs to appropriate wiki pages and adds remarks (from personal notes or messages i read in the servers), if such haven't been found there

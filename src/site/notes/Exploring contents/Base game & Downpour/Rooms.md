@@ -2,6 +2,19 @@
 {"dg-publish":true,"permalink":"/exploring-contents/base-game-and-downpour/rooms/"}
 ---
 
+### Common rooms' naming
+room names' identification or smth... head hurtie pls no bad wordie
+\[region acronym]\_\[amount of screens in a room, identified with a letter]\[room number]
+
+For example, `SU_B05`:
+- `SU` is Outskirts acronym
+- `B` stands for 2 screens (A = 1, B = 2, C = 3, etc.)
+- `05` is number of room.
+So that's a room from Outskirts that has 2 screens.
+
+# Looking for room files
+
+### Images
 - rendered room assets (looking red)
 are in `Rain World\SteamingAssets\world\XX-rooms` (where XX is region acronym) 
 - rendered AND colored rooms (like how they look in game)
@@ -19,7 +32,8 @@ https://docs.google.com/spreadsheets/d/1WloVDTQ4MOv0mnodrED1KLArJS7u5FUikr_DWpEk
 
 
 ....... sometimes, i've got nothing better to do. for some reason.
-# text files
+### Text files
+Are located in same spot as room assets.
 
 ```
 room name (unread)

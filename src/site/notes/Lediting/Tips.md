@@ -31,6 +31,6 @@ Okay these tips are somewhat important because some stuff might make your region
 - no unobvious 2 screen high rooms
 - shit camera transition
 - too many enemies in a given area
-- overuse of mandatory parkour (esp above death pits.)
+- overuse of mandatory parkour (if you make it all above _death pits_, know that Satan is a huge fan of your work)
 - annoying to navigate (?)
 - no overcluttering visibility

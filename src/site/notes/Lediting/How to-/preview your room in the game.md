@@ -50,4 +50,5 @@ yeah..
 open Dev Tools, press R. You'll appear in shelter, and every room will be reloaded, including yours.
 sheltering also works.
 
-oooor go into another room and press Q (it will give a food pip AND reload every room except the one you're in)
+oooor go into another room (you can use numpad with devtools enabled to TP to the pipe entrance you need) and press Q (it will give a food pip AND reload every room except the one you're in)
+or enable Warp Menu and warp into the same room you're in
