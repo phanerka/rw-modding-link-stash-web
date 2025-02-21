@@ -10,9 +10,6 @@ Heyo and welcome to WIP link stash! Please enjoy your stay ʕ●.●ʔ
 
 Before you start with anything, please check navigation links. It might help with searching for what you need!
 
-
-
-
 Entire documentation is made with Obsidian and powered by [Digital Garden](https://dg-docs.ole.dev/) plugin (possibly I will modify web page structure later to make website more UX friendly).
 If you want to have it offline, then sure, get the vault here! TODO
 ### Disclaimers
@@ -25,14 +22,15 @@ This website WON'T:
  
 ------
 
-And.. my personal note. I'll leave it here for some time. Maybe will delete later.
-I'm.... actually a newbie in modding. I just had no idea where to start. Moreover, I'm the type of person who asks for help as very last resort. This doc was made by myself for *myself* in the first place, to get a better understanding of modding process in general. For some reason... i decided to put some effort into verifying information and making everything look clean.
-But it doesn't mean I got everything right. 
+And.. a lil note. I'll leave it here for some time. Maybe will delete later.
 
-For more experienced modders: if I got a lot of things wrong, I'm sorry. 
-For those who's messages were referenced here and are annoyed I didn't ask them first: I'm also sorry. I'm anxious. 
+Okay so, I'm not very experienced in modding, thus there *might* be some mistakes. 
+This website was born from my annoyance over numerous "why wasn't that file / guide posted in THAT server / channel?!" moments, which later grew into just a dump of all cool info I find. 
+And making that website did help me to learn and get better acquainted with RW modding in general, so I don't regret anything. 
+And when it comes to permissions... honestly, I'm anxious and need help with asking for them.
+if i made too many bad decisions, sure i can take website down and stick with online version i dunno, i'll be fine
 Contact infos are mentioned in [[Credits n legal stuff\|credits]]. 
-In worst case, I'll just delete this repo and stick with offline version. That's all. And i'll be fine with that.
+
 
 Contributions are welcome, of course. 
 

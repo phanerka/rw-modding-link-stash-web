@@ -15,7 +15,7 @@ I credited people here:
  - who weren't directly credited neither had source link to their message
 
 However, if you're not happy with your info being added here / want to be credited separately, still / I forgot to credit you, reach me out. We'll figure things out. 
-dis: phanie_
+**dis: `phanie_`**
 
 what i did / am planning to do:
 - documented files structure (sandbox, room.txt) 
@@ -31,3 +31,9 @@ quintennial: shared their modified Rodondo font for my title thing. Thx a lot :3
 and Olly Wood since they're original creators of the font
 
 jonahfagnus: lediting guides, room/region idea generator creation
+
+
+i honestly dont know if i should mention like, *EVERYONE*
+
+aight
+ludocrypt: created numerous youtube tutorials on lediting, they're pretty sick 
