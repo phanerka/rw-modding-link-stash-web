@@ -1,18 +1,27 @@
-# Quartz v4
+# Made with Quartz v4.4!
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Quartz documentation: https://quartz.jzhao.xyz/
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+### Building
+literally copied from quartz doc but oh well...
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+**Prerequisites**:
+ - npm v9.3.1 or later
+ - node v20 or later
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+---------------------------------------------
 
-## Sponsors
+1. **Clone**
+`git clone --recurse-submodules git://github.com/phanerka/rw-modding-link-stash-web` (since there are submodules)
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+2. **Install dependencies**
+Go into cloned repo folder and
+```
+npm i
+npx quartz create
+```
+
+3. **Launch**
+`npx quartz build --serve`
+
+4. Go to `http://localhost:8080/` in browser and enjoy!
