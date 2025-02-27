@@ -11,17 +11,17 @@ literally copied from quartz doc but oh well...
 
 ---------------------------------------------
 
-1. **Clone**
+1. **Clone**  
 `git clone --recurse-submodules git://github.com/phanerka/rw-modding-link-stash-web` (since there are submodules)
 
-2. **Install dependencies**
+2. **Install dependencies**  
 Go into cloned repo folder and
 ```
 npm i
 npx quartz create
 ```
 
-3. **Launch**
+3. **Launch**  
 `npx quartz build --serve`
 
 4. Go to `http://localhost:8080/` in browser and enjoy!
