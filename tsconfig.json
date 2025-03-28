@@ -15,7 +15,10 @@
     "noUnusedParameters": true,
     "esModuleInterop": true,
     "jsx": "react-jsx",
-    "jsxImportSource": "preact"
+    "jsxImportSource": "preact",
+    "outDir": "${workspaceFolder}/quartz/.quartz-cache"
+    //"sourceMap": true,
+    //"mapRoot": "{workspaceFolder}"
   },
   "include": ["**/*.ts", "**/*.tsx", "./package.json"],
   "exclude": ["build/**/*.d.ts"]

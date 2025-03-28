@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "AAAAAAA",
+            "type": "firefox",
+            "request": "launch",
+            //"firefoxExecutable": "/usr/bin/firefox -start-debugger-server",
+            
+            //"trace": true
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}/public",
+            "port": 8080
+        }
+    ]
+}

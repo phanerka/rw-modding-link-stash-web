@@ -31,14 +31,13 @@ export default ((userOpts?: Partial<SearchOptions>) => {
         </button>
         <div class="search-container">
           <div class="search-space">
-            <div
-              contenteditable="true"
-              //autocomplete="off"
+            <input
+              autocomplete="off"
               class="search-bar"
-              //name="search"
-              //type="text"
+              name="search"
+              type="text"
               aria-label={searchPlaceholder}
-              //placeholder={searchPlaceholder}
+              placeholder={searchPlaceholder}
             />
             <div class="search-layout" data-preview={opts.enablePreview}></div>
           </div>
