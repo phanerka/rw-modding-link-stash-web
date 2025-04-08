@@ -39,8 +39,6 @@ let index = new FlexSearch.Document<Item>({
   },
 })
 
-
-
 const p = new DOMParser()
 const fetchContentCache: Map<FullSlug, Element[]> = new Map()
 const contextWindowWords = 30
@@ -53,10 +51,9 @@ const tokenizeTerm = (term: string) => {
   if (tokenLen > 1) {
     for (let i = 1; i < tokenLen; i++) {
       tokens.push(tokens.slice(0, i + 1).join(" "))
-      
     }
   }
-  console.log("tokens: " + JSON.stringify(tokens));
+
   return tokens.sort((a, b) => b.length - a.length) // always highlight longest terms first
 }
 
@@ -156,7 +153,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const searchButton = searchElement.querySelector(".search-button") as HTMLButtonElement
   if (!searchButton) return
 
-  const searchBar = searchElement.querySelector(".search-bar") as HTMLDivElement
+  const searchBar = searchElement.querySelector(".search-bar") as HTMLInputElement
   if (!searchBar) return
 
   const searchLayout = searchElement.querySelector(".search-layout") as HTMLElement
@@ -180,11 +177,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     appendLayout(preview)
   }
 
-  // hide search BAR
   function hideSearch() {
     container.classList.remove("active")
-    //searchBar.value = "" // clear the input when we dismiss the search
-    searchBar.innerText = "";
+    searchBar.value = "" // clear the input when we dismiss the search
     sidebar.style.zIndex = ""
     removeAllChildren(results)
     if (preview) {
@@ -195,7 +190,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     searchButton.focus()
   }
 
-  // show search BAR
   function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew
     sidebar.style.zIndex = "1"
@@ -217,8 +211,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       searchBarOpen ? hideSearch() : showSearch("tags")
 
       // add "#" prefix for tag search
-      searchBar.innerText = "#";
-      //searchBar.value = "#"
+      searchBar.value = "#"
       return
     }
 
@@ -336,10 +329,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   async function displayResults(finalResults: Item[]) {
-    console.log("results to be deleted:");
-    console.dir(results);
     removeAllChildren(results)
-    searchLayout.classList.add("display-results")
     if (finalResults.length === 0) {
       results.innerHTML = `<a class="result-card no-match">
           <h3>No results.</h3>
@@ -347,7 +337,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       </a>`
     } else {
       results.append(...finalResults.map(resultToHTML))
-      console.log("resultToHTML: " + JSON.stringify(resultToHTML));
     }
 
     if (finalResults.length === 0 && preview) {
@@ -357,7 +346,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       // focus on first result, then also dispatch preview immediately
       const firstChild = results.firstElementChild as HTMLElement
       firstChild.classList.add("focus")
-      //currentHover = firstChild as HTMLInputElement
       currentHover = firstChild as HTMLInputElement
       await displayPreview(firstChild)
     }
@@ -386,10 +374,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   async function displayPreview(el: HTMLElement | null) {
     if (!searchLayout || !enablePreview || !el || !preview) return
-    console.log("document:");
-    console.dir(document);
-    console.log("el:");
-    console.dir(el);
     const slug = el.id as FullSlug
     const innerDiv = await fetchContent(slug).then((contents) =>
       contents.flatMap((el) => [...highlightHTML(currentSearchTerm, el as HTMLElement).children]),
@@ -397,12 +381,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     previewInner = document.createElement("div")
     previewInner.classList.add("preview-inner")
     previewInner.append(...innerDiv)
-    console.log("preview: ");
-    console.dir(preview);
-    console.log("previewInner:");
-    console.dir(previewInner);
-    console.log("innerDiv:");
-    console.dir(innerDiv);
     preview.replaceChildren(previewInner)
 
     // scroll to longest
@@ -413,10 +391,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   async function onType(e: HTMLElementEventMap["input"]) {
-  //async function onType(e: HTMLElementEventMap["change"]) {
     if (!searchLayout || !index) return
-    //currentSearchTerm = (e.target as HTMLInputElement).value
-    currentSearchTerm = (e.target as HTMLDivElement).innerText
+    currentSearchTerm = (e.target as HTMLInputElement).value
+    searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
 
     let searchResults: FlexSearch.SimpleDocumentSearchResultSetUnit[]
@@ -454,8 +431,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         limit: numSearchResults,
         index: ["title", "content"],
       })
-      console.log("searchResults: ");
-      console.dir(searchResults);
     }
 
     const getByField = (field: string): number[] => {
@@ -477,8 +452,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
   searchButton.addEventListener("click", () => showSearch("basic"))
   window.addCleanup(() => searchButton.removeEventListener("click", () => showSearch("basic")))
-  //searchBar.addEventListener("change", onType)
-  //window.addCleanup(() => searchBar.removeEventListener("change", onType))
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 
