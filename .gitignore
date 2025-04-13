@@ -10,6 +10,6 @@ private/
 .replit
 replit.nix
 // sscs backup iirc
-.sscsr
+*.sscsr
 action.sh
 content.7z
