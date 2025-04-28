@@ -1,9 +1,27 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# Made with Quartz v4.5!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+Quartz documentation: https://quartz.jzhao.xyz/
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+### Building
+literally copied from quartz doc but oh well...
+
+**Prerequisites**:
+ - npm v9.3.1 or later
+ - node v20 or later
+
+---------------------------------------------
+
+1. **Clone**  
+`git clone --recurse-submodules git://github.com/phanerka/rw-modding-link-stash-web` (to clone both website and the doc)
+
+2. **Install dependencies**  
+Go into cloned repo folder and
+```
+npm i
+npx quartz create
+```
+
+3. **Launch**  
+`npx quartz build --serve`
+
+4. Go to `http://localhost:8080/` in browser and enjoy!
