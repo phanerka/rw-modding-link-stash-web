@@ -121,7 +121,7 @@ $callout-types: "note", "abstract", "info", "todo", "tip", "success", "question"
   --graph-node: var(--text-muted);
   --graph-node-unresolved: var(--text-faint);
   --graph-node-focused: var(--text-accent);
-  --graph-node-tag: var(--color-green);
+  --graph-node-tag: var(--color-cyan);
   --graph-node-attachment: var(--color-yellow);
   --h1-color: var(--text-normal);
   --h2-color: var(--text-normal);
@@ -754,7 +754,7 @@ html[saved-theme="dark"] {
   --text-accent-hover: #786b54;
   --text-normal: #a29c90;
   --text-muted: #a29c90;
-  --text-faint: rgb(121, 121, 121);
+  --text-faint: rgb(187, 173, 158);
   --accent-strong: #786b54;
   --text-em-color: #e1b87f;
   --text-error: #007672;
@@ -1784,7 +1784,7 @@ body {
   --tertiary: var(
     --graph-node-tag,
     var(
-      --color-green,
+      --color-cyan,
       var(--link-color-hover, var(--text-accent-hover, var(--color-accent-2, #a386f9)))
     )
   ) !important;
@@ -1839,7 +1839,7 @@ body {
   --tertiary: var(
     --graph-node-tag,
     var(
-      --color-green,
+      --color-cyan,
       var(--link-color-hover, var(--text-accent-hover, var(--color-accent-2, #c5b6fc)))
     )
   ) !important;

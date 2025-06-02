@@ -15,10 +15,23 @@
     }
 
     &[data-callout="wip"] {
-      --color:#635940;
-      --border: #494336ab;
-      --bg: #6e665369;
+      --color:#817961;
+      --border: #5a5446bb;
+      --bg: #6e66533b;
       --callout-icon: var(--callout-icon-wrench);
   }
   }
 // put your custom CSS here!
+
+.center > .page-header {
+  &:has(~ .hide-date) {
+    .content-meta {
+      display: none;
+    }
+  }
+  &:has(~ .hide-title) {
+    .article-title {
+      display: none;
+    }
+  }
+}
