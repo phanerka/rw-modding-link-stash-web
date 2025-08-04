@@ -235,6 +235,18 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     const alt = match?.groups?.alt ?? ""
                     const width = match?.groups?.width ?? "auto"
                     const height = match?.groups?.height ?? "auto"
+
+                    if (url.endsWith("-dark.png") || url.endsWith("-light.png")) {
+                      console.log(url)
+                      return {
+                        type: "html",
+                        value: `<picture>
+                        <source srcset="${url.endsWith("-dark.png") ? url : url.replace("-light", "-dark")}" media="#" class="dark-img">
+                        <source srcset="${url.endsWith("-light.png") ? url : url.replace("-dark", "-light")}" media="#" class="light-img">
+                        <img src="${url}">
+                    </picture>`
+                      }
+                    }
                     return {
                       type: "image",
                       url,

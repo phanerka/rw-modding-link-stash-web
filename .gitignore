@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+// i forgor
+*.scssr
+action.sh
+content.7z

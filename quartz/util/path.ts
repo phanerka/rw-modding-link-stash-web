@@ -121,6 +121,11 @@ export function normalizeRelativeURLs(el: Element | Document, destination: strin
   el.querySelectorAll('[src=""], [src^="./"], [src^="../"]').forEach((item) =>
     _rebaseHtmlElement(item, "src", destination),
   )
+  /*
+  el.querySelectorAll('[srcset=""], [srcset^="./"], [srcset^="../"]').forEach((item) =>
+    _rebaseHtmlElement(item, "srcset", destination),
+  )
+  */
 }
 
 const _rebaseHastElement = (
@@ -143,6 +148,7 @@ export function normalizeHastElement(rawEl: HastElement, curBase: FullSlug, newB
   const el = clone(rawEl) // clone so we dont modify the original page
   _rebaseHastElement(el, "src", curBase, newBase)
   _rebaseHastElement(el, "href", curBase, newBase)
+  //_rebaseHastElement(el, "srcset", curBase, newBase)
   if (el.children) {
     el.children = el.children.map((child) =>
       normalizeHastElement(child as HastElement, curBase, newBase),
